@@ -46,7 +46,7 @@ This plan is complete but **not finalized** — nine of ten items in [APPENDIX/U
 ## Assumptions Baked Into This Version
 
 - **2-day format** (Sat–Sun) recommended over 3-day, given intern organizing capacity — see [02_Executive_Summary.md](02_Executive_Summary.md).
-- **TI MedTech modeled at Scenario A (sponsor-only, minimum)** until the scope call resolves — see [01](01_TI_MedTech_Partnership_Clarification.md).
+- **TI MedTech is modeled at $0 cash sponsorship, by decision, not by default.** Kashaf & Aleeya are not proactively asking TI MedTech for money — it's treated as a logo + in-kind (e.g., 1 judge) partner. Ticket sales and a Gold/Silver sponsor mix now carry the budget instead — see [01](01_TI_MedTech_Partnership_Clarification.md) and [05_Budget_Revenue.md](05_Budget_Revenue.md). **Landing a Gold sponsor is now load-bearing to the budget, not a stretch goal.**
 - **Singapore is a placeholder track** throughout — venue, partner, budget, and run-of-show all pending confirmation.
 
 Update this README's "Key Unknowns" and "This Week" sections as each item resolves — this file is meant to stay current, not archived.

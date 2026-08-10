@@ -38,8 +38,9 @@ This is *not* "we need to organize a hackathon." The hackathon is the solution; 
 
 Late November gives a **~15-week runway** from today (2026-08-10) to event day — enough time for the WBS in [03_Project_Plan_WBS](03_Project_Plan_WBS.md), but only if the TI MedTech scope call happens in Week 1.
 
-## Top 3 Risks (full register: [11_Risk_Register](11_Risk_Register.md))
+## Top Risks (full register: [11_Risk_Register](11_Risk_Register.md))
 
-1. **TI MedTech scope stays undefined past Week 2** → budget, sponsor tiers, and Singapore venue all stall. *Mitigation:* force the clarification call in Week 1 (see [01](01_TI_MedTech_Partnership_Clarification.md)).
-2. **Singapore venue/partner never materializes** → Singapore track collapses or has to go virtual-only. *Mitigation:* start Singapore sourcing in Week 1, in parallel with Melbourne, not after.
-3. **Low participant registration** → weak demo day, unhappy sponsors, wasted catering spend. *Mitigation:* start marketing in Week 2–3 (not Week 4+), lean on university clubs for distribution, keep the registration form to 5 fields.
+1. **TI MedTech scope stays undefined past Week 2** → Singapore venue and content alignment stall. Funding is no longer part of this risk — see below. *Mitigation:* force the clarification call in Week 1 (see [01](01_TI_MedTech_Partnership_Clarification.md)).
+2. **No Gold sponsor secured** → since TI MedTech is deliberately not being asked for cash, this is now the single biggest threat to the budget (see [05_Budget_Revenue](05_Budget_Revenue.md) breakeven analysis — no Gold sponsor pushes breakeven to ~133 tickets, outside the target range). *Mitigation:* make the Gold ask Leon's top-priority enterprise outreach item, due Week 6.
+3. **Singapore venue/partner never materializes** → Singapore track collapses or has to go virtual-only. *Mitigation:* start Singapore sourcing in Week 1, in parallel with Melbourne, not after.
+4. **Low participant registration** → weak demo day, and now a direct hit to breakeven since ticket sales carry more of the budget than before. *Mitigation:* start marketing in Week 2–3 (not Week 4+), lean on university clubs for distribution, keep the registration form to 5 fields.

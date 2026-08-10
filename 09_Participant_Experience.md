@@ -51,7 +51,7 @@ Full rubric with scoring sheet: [TEMPLATES/Judging_Rubric.md](TEMPLATES/Judging_
 | All teams | LinkedIn-shareable "Tech for Humanity" participation certificate |
 | Winning teams | Introduction to TI MedTech for potential venture/internship support |
 
-Exact dollar amounts depend on the sponsorship and TI MedTech budget outcome — see [05_Budget_Revenue](05_Budget_Revenue.md) and [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md).
+Exact dollar amounts depend on the Gold/Silver sponsorship outcome, not TI MedTech (modeled at $0 cash) — see [05_Budget_Revenue](05_Budget_Revenue.md) and [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md).
 
 ## Accessibility Accommodations
 

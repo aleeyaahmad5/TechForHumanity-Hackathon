@@ -1,44 +1,49 @@
 {
   "currency": "AUD",
-  "status": "PLANNING ESTIMATE — pending TI MedTech scope decision (see 01_TI_MedTech_Partnership_Clarification.md)",
+  "status": "PLANNING ESTIMATE — pending confirmed sponsor sign-offs (see 06_Sponsor_Plan.md)",
+  "tiMedTechAssumption": "TI MedTech is not asked for cash sponsorship; modeled at $0 cash, logo + in-kind judge only. See 01_TI_MedTech_Partnership_Clarification.md.",
   "melbourne": {
     "revenue": {
-      "tickets": 1764,
-      "sponsorshipCash": 8500,
-      "total": 10264
+      "tickets": 2016,
+      "sponsorshipCash": 4500,
+      "tiMedTechCash": 0,
+      "total": 6516
     },
     "expenses": {
       "venue": 200,
-      "catering": 5000,
-      "prizes": 2500,
+      "catering": 3000,
+      "prizes": 1500,
       "avTech": 300,
       "insurance": 300,
-      "marketing": 200,
-      "volunteerAppreciation": 200,
-      "contingency": 1013,
-      "total": 9713
+      "marketing": 150,
+      "volunteerAppreciation": 150,
+      "contingency": 672,
+      "total": 6272
     },
-    "profitToOrganizers": 551,
-    "breakevenTickets": 44,
-    "targetRegistrationRange": [50, 80]
+    "profitToOrganizers": 244,
+    "breakevenTickets": 56,
+    "targetRegistrationRange": [50, 80],
+    "blendedTicketPrice": 32
   },
   "singapore": {
     "status": "placeholder — do not commit spend until venue/partner confirmed (milestone M3)",
     "expenses": {
       "venue": "TBD",
-      "catering": 3000,
-      "prizes": 1500,
+      "catering": 1800,
+      "prizes": 900,
       "avTech": 200,
       "insurance": 200,
-      "marketing": 150,
-      "contingency": 606,
-      "totalExcludingVenue": 5656
+      "marketing": 100,
+      "contingency": 384,
+      "totalExcludingVenue": 3584
     },
-    "profitToOrganizers": 0
+    "profitToOrganizers": 0,
+    "note": "No ticket-revenue offset modeled; funding source still open"
   },
   "sensitivity": {
-    "note": "If TI MedTech or another sponsor tier falls through, breakeven ticket count rises toward 75 — near the top of the target registration range.",
-    "worstCaseSponsorshipCash": 2000,
-    "worstCaseBreakevenTickets": 75
+    "note": "Sponsorship cash is now the dominant swing factor since TI MedTech contributes $0 cash by design.",
+    "noGoldSponsorBreakevenTickets": 133,
+    "zeroSponsorshipCashBreakevenTickets": 196,
+    "verdict": "A Gold sponsor is load-bearing, not optional, under this model"
   }
 }

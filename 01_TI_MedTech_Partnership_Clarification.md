@@ -6,6 +6,8 @@
 
 TI MedTech has asked: *"What will be the commitments from TI MedTech?"* Nothing downstream — budget, sponsor tiers, Singapore venue, judge/mentor headcount — can be finalized until this is answered. This document exists to get that answer on a call with Dr Irwan & Tita, fast.
 
+> **Working assumption (confirmed by Kashaf & Aleeya):** TI MedTech is **not expected to contribute cash sponsorship unless explicitly asked**. Do not assume TI MedTech funding as a revenue line in [05_Budget_Revenue](05_Budget_Revenue.md) — model TI MedTech as **logo + limited in-kind (e.g., 1 judge) only**, and treat any cash they volunteer as upside, not baseline. Ticket sales and non-TI-MedTech sponsors (Gold/Silver, local) are now the primary revenue drivers — see [05_Budget_Revenue](05_Budget_Revenue.md).
+
 ---
 
 ## 5 Clarifying Questions for TI MedTech
@@ -29,14 +31,14 @@ Ask these in order on the Week 1 call. Record answers verbatim; they become the 
 
 | Commitment | Detail |
 |---|---|
-| Funding | Fixed sponsorship amount (TBD on call) treated like any other Platinum/Gold sponsor — see [06_Sponsor_Plan](06_Sponsor_Plan.md) |
+| Funding | **$0 assumed by default** — not requested unless TI MedTech volunteers it on the call (Question 3 is asked, but the budget does not depend on the answer) |
 | Branding | Logo on all materials, landing page, signage, slides |
 | People | 1 judge for demo day (a few hours, Day 2/3 only) |
 | Content | No obligation to shape theme or agenda |
 | Social | One co-branded social post pre-event, one post-event |
 | Activation time | **1–2 weeks** — a signed sponsor agreement (see [TEMPLATES/Sponsor_Email_Template](TEMPLATES/Sponsor_Email_Template.md)) is most of the work |
 
-**What this unlocks:** TI MedTech becomes a normal (large) line item in the sponsor tier table rather than a co-owner of the event. Kashaf & Aleeya keep full control of programming, timeline, and Singapore sourcing.
+**What this unlocks:** TI MedTech becomes a logo-and-in-kind partner rather than a funding line or a co-owner of the event. Kashaf & Aleeya keep full control of programming, timeline, Singapore sourcing, **and the budget** — since it no longer depends on TI MedTech volunteering money. See [05_Budget_Revenue](05_Budget_Revenue.md) for how ticket sales and other sponsors now cover costs.
 
 ## Scenario B — Full Scope (Co-Production)
 
@@ -61,7 +63,8 @@ Ask these in order on the Week 1 call. Record answers verbatim; they become the 
 - Kashaf & Aleeya are interns with a fixed weekly time budget; Leon is already covering enterprise sponsor outreach and mentor/judge sourcing (see [06_Sponsor_Plan](06_Sponsor_Plan.md)) — a second co-producer relationship to manage in parallel risks spreading both organizers too thin in the first 4 weeks, when venue and Singapore decisions are most time-critical.
 - The one piece of Scenario B that materially changes feasibility — **a Singapore venue/partner lead** — should be asked for explicitly (Question 4) regardless of which scenario TI MedTech prefers. If TI MedTech can make an introduction without taking on full co-production, that's the highest-leverage outcome of the call.
 - Scenario B's content-alignment clause (narrowing the theme) is worth resisting unless the funding increase justifies it — a broader "under-served communities" theme is more defensible for RMIT/Leon's cross-industry sponsor outreach.
+- **On funding specifically:** the organizers have decided not to proactively ask TI MedTech for money — Question 3 stays on the call script, but the budget model in [05_Budget_Revenue](05_Budget_Revenue.md) assumes **$0 cash from TI MedTech** and is built to work without it. If TI MedTech offers funding unprompted, treat it as a budget upside to reallocate (e.g., toward prizes or Singapore), not as something to plan around in advance.
 
 ## Next Step
 
-Kashaf & Aleeya call Dr Irwan/Tita this week with the 5 (+2) questions above. **Return the scope decision to Leon and into this document by 2026-08-17.** Until then, treat TI MedTech in the Budget (05) and Sponsor Plan (06) as "Scenario A, amount TBD" — do not build a budget that depends on Scenario B funding.
+Kashaf & Aleeya call Dr Irwan/Tita this week with the 5 (+2) questions above. **Return the scope decision to Leon and into this document by 2026-08-17.** Until then, treat TI MedTech in the Budget (05) and Sponsor Plan (06) as "Scenario A, logo + in-kind only, $0 cash assumed" — do not build a budget that depends on TI MedTech funding, Scenario A or B.

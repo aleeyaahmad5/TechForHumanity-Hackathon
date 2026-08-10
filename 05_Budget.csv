@@ -1,27 +1,27 @@
 Category,Type,Track,Item,Amount_AUD,Notes
-Revenue,Ticket,MEL,Early bird tickets,20,Price per ticket first 3 weeks
-Revenue,Ticket,MEL,Standard tickets,35,Price per ticket from week 4
-Revenue,Ticket,MEL,Group ticket,25,Price per person for teams of 4+
+Revenue,Ticket,MEL,Early bird tickets,25,Price per ticket first 3 weeks
+Revenue,Ticket,MEL,Standard tickets,40,Price per ticket from week 4
+Revenue,Ticket,MEL,Group ticket,30,Price per person for teams of 4+
 Revenue,Ticket,MEL,Scholarship seats,0,~7 free seats funded by sponsorship
-Revenue,Sponsorship,Both,TI MedTech (anchor - Scenario A min),4000,Pending scope call
-Revenue,Sponsorship,Both,Gold sponsor x1,2500,
+Revenue,Sponsorship,Both,TI MedTech (logo + in-kind judge only),0,No cash assumed - see 01_TI_MedTech_Partnership_Clarification.md
+Revenue,Sponsorship,Both,Gold sponsor x1,2500,Load-bearing - see breakeven analysis
 Revenue,Sponsorship,Both,Silver sponsors x2,2000,1000 each
-Revenue,Total,MEL,Total Melbourne revenue (est.),10264,63 paid tickets @ $28 avg + $8500 sponsorship
+Revenue,Total,MEL,Total Melbourne revenue (est.),6516,63 paid tickets @ $32 avg + $4500 sponsorship
 Expense,Venue,MEL,RMIT Activator fee,200,Likely in-kind; nominal after-hours/cleaning fee
-Expense,Catering,MEL,2-day catering ~100 heads/day,5000,Breakfast/lunch/snacks/dietary
-Expense,Prizes,MEL,Cash prizes + swag,2500,
+Expense,Catering,MEL,2-day catering ~100 heads/day (lean ~$15/head/day),3000,Breakfast/lunch/snacks/dietary
+Expense,Prizes,MEL,Cash prizes + swag (lean on in-kind),1500,
 Expense,AV/Tech,MEL,Backup hotspot/cables/printing,300,
 Expense,Insurance,MEL,Insurance & compliance,300,Confirm RMIT coverage first
-Expense,Marketing,MEL,Marketing materials,200,Digital-first
-Expense,Volunteers,MEL,Appreciation food/swag,200,Not an honorarium
-Expense,Contingency,MEL,Contingency (12%),1013,
-Expense,Total,MEL,Total Melbourne expenses (est.),9713,
-Profit,Net,MEL,Profit to Kashaf and Aleeya,551,Revenue minus expenses
+Expense,Marketing,MEL,Marketing materials,150,Digital-first
+Expense,Volunteers,MEL,Appreciation food/swag,150,Not an honorarium
+Expense,Contingency,MEL,Contingency (12%),672,
+Expense,Total,MEL,Total Melbourne expenses (est.),6272,
+Profit,Net,MEL,Profit to Kashaf and Aleeya,244,Revenue minus expenses
 Expense,Venue,SG,Venue (TBD),0,Pending partner - see Deliverable 01 Q4
-Expense,Catering,SG,Catering (placeholder 60% scale),3000,
-Expense,Prizes,SG,Prizes (placeholder),1500,
+Expense,Catering,SG,Catering (placeholder 60% scale, lean),1800,
+Expense,Prizes,SG,Prizes (placeholder),900,
 Expense,AV/Tech,SG,AV/tech,200,
 Expense,Insurance,SG,Insurance & compliance,200,
-Expense,Marketing,SG,Marketing,150,
-Expense,Contingency,SG,Contingency (12%),606,
-Expense,Total,SG,Total Singapore expenses (placeholder),5656,Do not commit spend until venue milestone M3 clears
+Expense,Marketing,SG,Marketing,100,
+Expense,Contingency,SG,Contingency (12%),384,
+Expense,Total,SG,Total Singapore expenses (placeholder),3584,Do not commit spend until venue milestone M3 clears; no ticket revenue offset modeled
