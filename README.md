@@ -8,7 +8,7 @@ This repo is the full operational plan for the event, built from the RMIT capsto
 
 ## Start Here
 
-**The single biggest blocker to everything else in this repo is unresolved:** what is TI MedTech actually committing to? Read [01_TI_MedTech_Partnership_Clarification.md](01_TI_MedTech_Partnership_Clarification.md) first — it has the 5 questions to ask on this week's call and a recommendation for how to scope the partnership given Kashaf & Aleeya's capacity as interns.
+**The single biggest blocker to everything else in this repo is unresolved:** what is TI MedTech actually committing to? Read [01_TI_MedTech_Partnership_Clarification.md](01_TI_MedTech_Partnership_Clarification.md) first for the analysis and recommendation, then use **[TI_MedTech_Call_Questions.md](TI_MedTech_Call_Questions.md)** as the actual script for the 1-hour call with Tita and Dr Irwan — it's time-boxed and has a spot to record each answer live.
 
 ## This Week (Kashaf & Aleeya)
 
@@ -22,7 +22,8 @@ This repo is the full operational plan for the event, built from the RMIT capsto
 
 | File | Covers |
 |---|---|
-| [01_TI_MedTech_Partnership_Clarification.md](01_TI_MedTech_Partnership_Clarification.md) | Scope questions, minimal vs. full-scope scenarios, recommendation |
+| [01_TI_MedTech_Partnership_Clarification.md](01_TI_MedTech_Partnership_Clarification.md) | Scope analysis, minimal vs. full-scope scenarios, recommendation |
+| [TI_MedTech_Call_Questions.md](TI_MedTech_Call_Questions.md) | The actual 1-hour call script — every open question in one place, time-boxed, with space to log answers |
 | [02_Executive_Summary.md](02_Executive_Summary.md) | Problem statement, HEART success metrics, recommended dates, top risks |
 | [03_Project_Plan_WBS.md](03_Project_Plan_WBS.md) / [.csv](03_WBS.csv) | Full work breakdown structure, owners, dependencies, milestones |
 | [04_Timeline_Roadmap.md](04_Timeline_Roadmap.md) / [Gantt](04_Gantt_ASCII.txt) / [Schedule](04_Schedule.json) | 16-week countdown, month-by-month deadlines, on-the-day critical path |

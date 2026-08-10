@@ -4,7 +4,7 @@
 **Owner:** Kashaf & Aleeya
 **Deadline:** End of Week 1 (by **2026-08-17**)
 
-TI MedTech has asked: *"What will be the commitments from TI MedTech?"* Nothing downstream — budget, sponsor tiers, Singapore venue, judge/mentor headcount — can be finalized until this is answered. This document exists to get that answer on a call with Dr Irwan & Tita, fast.
+TI MedTech has asked: *"What will be the commitments from TI MedTech?"* Nothing downstream — budget, sponsor tiers, Singapore venue, judge/mentor headcount — can be finalized until this is answered. This document is the analysis and recommendation; for the actual call, use **[TI_MedTech_Call_Questions.md](TI_MedTech_Call_Questions.md)** — a single, time-boxed script covering every open question below plus the judge/workshop and Singapore items from later in this plan.
 
 > **Working assumption (confirmed by Kashaf & Aleeya):** TI MedTech is **not expected to contribute cash sponsorship unless explicitly asked**. Do not assume TI MedTech funding as a revenue line in [05_Budget_Revenue](05_Budget_Revenue.md) — model TI MedTech as **logo + limited in-kind only**, and treat any cash they volunteer as upside, not baseline. Ticket sales and non-TI-MedTech sponsors (Gold/Silver, local) are now the primary revenue drivers — see [05_Budget_Revenue](05_Budget_Revenue.md).
 >
