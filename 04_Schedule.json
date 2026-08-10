@@ -40,6 +40,7 @@
       { "time": "12:00", "day": 1, "activity": "Lunch" },
       { "time": "13:00", "day": 1, "activity": "Mentor office hours session 1" },
       { "time": "16:00", "day": 1, "activity": "Snack and mental health break" },
+      { "time": "16:00", "day": 1, "activity": "Virtual workshop: Tita (CEO) and Dr Irwan (CTO), TI MedTech, livestreamed from Singapore (contingent, ends 16:45)" },
       { "time": "18:30", "day": 1, "activity": "Dinner" },
       { "time": "21:00", "day": 1, "activity": "Day 1 close / venue closes" },
       { "time": "09:00", "day": 2, "activity": "Breakfast, hacking resumes" },
@@ -54,7 +55,8 @@
     ],
     "singapore": {
       "status": "TBD pending venue/partner confirmation (M3)",
-      "note": "Mirror the Melbourne run-of-show once local venue and partner are confirmed; adjust for local timezone (SGT, UTC+8; Melbourne is AEDT, UTC+11 in late Nov)."
+      "note": "Mirror the Melbourne run-of-show once local venue and partner are confirmed; adjust for local timezone (SGT, UTC+8; Melbourne is AEDT, UTC+11 in late Nov).",
+      "judges": "Contingent on TI MedTech agreement: Tita (CEO) and Dr Irwan (CTO) judge in person in Singapore on demo day (day 2) — see 01_TI_MedTech_Partnership_Clarification.md"
     }
   }
 }

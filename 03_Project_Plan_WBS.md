@@ -95,6 +95,7 @@ Owner key: **K**=Kashaf, **A**=Aleeya, **L**=Leon, **TI**=Dr Irwan/Tita, **VT**=
 | 8.4 | Mentorship office-hours schedule built | Both | MC | 10 | 7.2 | |
 | 8.5 | Prize structure & procurement | Both | K,L | 8–10 | 3.4 | |
 | 8.6 | Pre-event participant comms (intro email, Discord) | Both | A | 15 | 4.7 | |
+| 8.7 | TI MedTech workshop confirmed (topic, format) & Melbourne-Singapore stream tested | Both | K,TI | 9–15 | 1.3, 6.3 | Contingent — see [01](01_TI_MedTech_Partnership_Clarification.md) |
 
 ## 9. On-the-Day Execution
 

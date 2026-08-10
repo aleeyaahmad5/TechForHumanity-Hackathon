@@ -9,7 +9,7 @@
 
 | Time | Task | Owner | Notes |
 |---|---|---|---|
-| 8:00–8:30 | Venue walkthrough, AV test | Tech Lead | Confirm WiFi, projector, sound |
+| 8:00–8:30 | Venue walkthrough, AV test | Tech Lead | Confirm WiFi, projector, sound; if the TI MedTech workshop is confirmed, test the video call/stream link end-to-end now, not at 4pm |
 | 8:30–9:00 | Registration table setup, name tags ready | Participant Experience Lead | Alphabetical order for quick handoff |
 | 9:00–9:30 | *(overlaps with doors)* Volunteer briefing already done prior evening or 7:30am — see Training in [07_Volunteer_Staffing](07_Volunteer_Staffing.md) | Kashaf | Roles, escalation, contact list |
 
@@ -29,6 +29,7 @@
 | 12:00–1:00 | Lunch | Logistics Lead | Dietary accommodations labeled on tables |
 | 1:00–3:00 | Hacking; mentor office hours slot 1 | Mentorship Coordinator | 15-min rotating team slots |
 | 3:00–4:00 | Snack break; stretch / mental health break | Participant Experience Lead | Quiet room available |
+| 4:00–4:45 | **Virtual workshop:** Tita (CEO) & Dr Irwan (CTO), TI MedTech — livestreamed from Singapore | Tech Lead (AV) | Contingent on TI MedTech agreement — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) and [09_Participant_Experience](09_Participant_Experience.md). Test the video call/stream link at the 8:00am AV check. |
 | 5:00–6:00 | Mentor office hours slot 2 | Mentorship Coordinator | |
 | 6:30–7:30 | Dinner | Logistics Lead | |
 | 7:30–9:00 | Late-hacking push | — | Coffee station stays open |

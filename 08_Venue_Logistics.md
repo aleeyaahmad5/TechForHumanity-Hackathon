@@ -24,6 +24,7 @@
 - [ ] Audio system for announcements
 - [ ] Registration table setup (laptop + printed backup list)
 - [ ] Judging platform decision: paper scorecards vs. digital form (recommend digital — faster tally, see [TEMPLATES/Judging_Rubric.md](TEMPLATES/Judging_Rubric.md))
+- [ ] **Video call / livestream capability** for the TI MedTech workshop, if confirmed (Tita & Dr Irwan, streamed from Singapore — see [09_Participant_Experience](09_Participant_Experience.md), [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md) 4:00–4:45pm Day 1): stable dedicated bandwidth for video, screen large enough for the room, room mic so questions can be heard on the Singapore end, tested end-to-end at the 8:00am AV check, not first at 4pm
 
 ## Catering
 

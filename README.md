@@ -48,5 +48,6 @@ This plan is complete but **not finalized** — nine of ten items in [APPENDIX/U
 - **2-day format** (Sat–Sun) recommended over 3-day, given intern organizing capacity — see [02_Executive_Summary.md](02_Executive_Summary.md).
 - **TI MedTech is modeled at $0 cash sponsorship, by decision, not by default.** Kashaf & Aleeya are not proactively asking TI MedTech for money — it's treated as a logo + in-kind (e.g., 1 judge) partner. Ticket sales and a Gold/Silver sponsor mix now carry the budget instead — see [01](01_TI_MedTech_Partnership_Clarification.md) and [05_Budget_Revenue.md](05_Budget_Revenue.md). **Landing a Gold sponsor is now load-bearing to the budget, not a stretch goal.**
 - **Singapore is a placeholder track** throughout — venue, partner, budget, and run-of-show all pending confirmation.
+- **If TI MedTech agrees:** Tita (CEO) & Dr Irwan (CTO) judge in person in Singapore, and separately host a live virtual workshop shown to Melbourne on Day 1 (~4:00–4:45pm) — see [09_Participant_Experience.md](09_Participant_Experience.md) and [14_OnDay_Playbook_Melbourne.md](14_OnDay_Playbook_Melbourne.md). Contingent on the scope call, not locked in.
 
 Update this README's "Key Unknowns" and "This Week" sections as each item resolves — this file is meant to stay current, not archived.

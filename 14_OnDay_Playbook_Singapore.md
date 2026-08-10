@@ -7,6 +7,7 @@
 - **Dates:** Saturday 28 – Sunday 29 November 2026, same calendar dates as Melbourne, for a genuinely simultaneous "two-city" event.
 - **Timezone:** Singapore (SGT, UTC+8) is 3 hours behind Melbourne (AEDT, UTC+11) in late November. If any cross-city moment is planned (e.g., a shared opening video message, a joint closing announcement), schedule it in both local times explicitly — do not assume a shared start time reads the same in both cities.
 - **Program structure:** mirror the Melbourne run-of-show in [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md) — opening, team formation, hacking blocks with mentor office hours, demo day, judging, awards — adjusted for local venue capacity and catering norms (e.g., halal-default catering is likely more relevant in Singapore than in Melbourne).
+- **Judges (contingent on TI MedTech agreement — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)):** Tita (CEO) and Dr Irwan (CTO) judge **in person in Singapore** on demo day. Build the Singapore judging-block time around their availability once confirmed — they are not also expected in Melbourne that day, since they separately host a virtual workshop for Melbourne on Day 1 (see [09_Participant_Experience](09_Participant_Experience.md), [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)). Confirm they aren't double-booked across the Day 1 workshop and Day 2 judging once both local run-of-shows are drafted.
 
 ## What's Open
 
@@ -16,6 +17,7 @@
 - Catering vendor and dietary defaults
 - On-site safety/first-aid arrangements and local emergency contact number (Singapore: 995 for ambulance, 999 for police — confirm against local venue protocol)
 - Local volunteer recruitment channel (no existing "RMIT Activator" equivalent presence — depends entirely on the partner organization)
+- Whether the Melbourne workshop (Tita & Dr Irwan, Day 1) streams from the Singapore venue, TI MedTech's own office, or remote — determines whether Singapore's AV setup needs outbound streaming capability, or this is entirely a Melbourne-side concern
 
 ## Action Required
 

@@ -42,6 +42,7 @@ ID,Task,Track,Owner,StartWeek,EndWeek,DependsOn,Milestone
 8.4,Mentorship office-hours schedule built,Both,MC,10,10,7.2,
 8.5,Prize structure and procurement,Both,"K,L",8,10,3.4,
 8.6,Pre-event participant comms,Both,A,15,15,4.7,
+8.7,TI MedTech workshop confirmed and MEL-SG stream tested,Both,"K,TI",9,15,"1.3,6.3",Contingent - see 01_TI_MedTech_Partnership_Clarification.md
 9.1,Run-of-show finalized both cities,Both,"K,A,SGP",15,15,"8.3,8.4",
 9.2,Venue walkthrough and AV test,Both,VT,16,16,6.3,
 9.3,Event execution Melbourne,MEL,"K,A,VT",16,16,9.2,M9 Event runs MEL

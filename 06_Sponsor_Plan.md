@@ -54,6 +54,8 @@ TI MedTech's value here isn't the sponsorship line — it's brand, network, and 
 - **University access:** an ongoing relationship with RMIT Activator (via Leon) and a cohort of technically capable students is a low-cost pipeline for future interns or venture leads.
 - **Expected return:** a participant network, brand awareness among the next generation of health-tech talent, and a mentorship pipeline — all at zero cash cost to TI MedTech, which is worth naming explicitly if it helps get their in-kind judge/logo commitment over the line.
 
+**Concrete in-kind ask (contingent on agreement):** Tita (CEO) and Dr Irwan (CTO) judge in person in Singapore on demo day, and separately host a live virtual workshop for Melbourne on Day 1, ~4:00–4:45pm (see [09_Participant_Experience](09_Participant_Experience.md), [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)). This is a specific, low-cost way to get CEO/CTO-level visibility in both cities without a cash ask — lead with it on the call.
+
 ## Leon's Role
 
 - Leads **enterprise sponsor outreach** — he has the credibility and existing relationships (IBM, broader startup/mentor network) that Kashaf & Aleeya don't yet have as interns.

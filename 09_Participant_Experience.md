@@ -23,6 +23,12 @@ Full journey map: [09_Journey_Map.md](09_Journey_Map.md).
 - **Mentor network:** Leon's connections (enterprise), TI MedTech, RMIT Activator, university faculty.
 - **Estimated:** 3–5 mentors for Melbourne, rotated across the three office-hours slots so no team goes a full day without input.
 
+## TI MedTech Workshop (contingent — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md))
+
+If TI MedTech agrees to this ask: **Tita (CEO) and Dr Irwan (CTO) judge in person in Singapore**, and separately **host a live virtual workshop streamed to Melbourne** on Day 1, ~4:00–4:45pm (see [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)). Content should be a topic genuinely relevant to teams' projects at that point in the day (e.g., how a MedTech startup validates a health-adjacent idea, or a real product/regulatory constraint teams should design around) — not a generic company pitch. Confirm the topic with them directly rather than assuming; log it as a WBS task once scope is confirmed (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 8.7).
+
+Scheduling logic: the workshop sits on **Day 1**, not Day 2, so it doesn't compete with Tita/Dr Irwan's own judging duties during Singapore's demo day. Singapore is 3 hours behind Melbourne (SGT vs. AEDT) — confirm their local time before locking the slot.
+
 ## Judging Criteria & Rubric
 
 Framed around "Tech for Humanity":

@@ -6,7 +6,9 @@
 
 TI MedTech has asked: *"What will be the commitments from TI MedTech?"* Nothing downstream — budget, sponsor tiers, Singapore venue, judge/mentor headcount — can be finalized until this is answered. This document exists to get that answer on a call with Dr Irwan & Tita, fast.
 
-> **Working assumption (confirmed by Kashaf & Aleeya):** TI MedTech is **not expected to contribute cash sponsorship unless explicitly asked**. Do not assume TI MedTech funding as a revenue line in [05_Budget_Revenue](05_Budget_Revenue.md) — model TI MedTech as **logo + limited in-kind (e.g., 1 judge) only**, and treat any cash they volunteer as upside, not baseline. Ticket sales and non-TI-MedTech sponsors (Gold/Silver, local) are now the primary revenue drivers — see [05_Budget_Revenue](05_Budget_Revenue.md).
+> **Working assumption (confirmed by Kashaf & Aleeya):** TI MedTech is **not expected to contribute cash sponsorship unless explicitly asked**. Do not assume TI MedTech funding as a revenue line in [05_Budget_Revenue](05_Budget_Revenue.md) — model TI MedTech as **logo + limited in-kind only**, and treat any cash they volunteer as upside, not baseline. Ticket sales and non-TI-MedTech sponsors (Gold/Silver, local) are now the primary revenue drivers — see [05_Budget_Revenue](05_Budget_Revenue.md).
+>
+> **In-kind ask, if TI MedTech agrees:** Tita (CEO) and Dr Irwan (CTO) judge in person in Singapore, and separately host a **virtual workshop shown to Melbourne** on Day 1 — see [09_Participant_Experience](09_Participant_Experience.md) and [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md). This is the concrete version of "1 judge" in Scenario A below — pending confirmation on the call (Question 2), not yet locked in.
 
 ---
 
@@ -33,7 +35,7 @@ Ask these in order on the Week 1 call. Record answers verbatim; they become the 
 |---|---|
 | Funding | **$0 assumed by default** — not requested unless TI MedTech volunteers it on the call (Question 3 is asked, but the budget does not depend on the answer) |
 | Branding | Logo on all materials, landing page, signage, slides |
-| People | 1 judge for demo day (a few hours, Day 2/3 only) |
+| People | **Tita (CEO) & Dr Irwan (CTO) judge in person in Singapore** demo day, plus host a **live virtual workshop for Melbourne** on Day 1 (relevant industry topic, TBD with them — see [09_Participant_Experience](09_Participant_Experience.md)) — contingent on their agreement, not guaranteed |
 | Content | No obligation to shape theme or agenda |
 | Social | One co-branded social post pre-event, one post-event |
 | Activation time | **1–2 weeks** — a signed sponsor agreement (see [TEMPLATES/Sponsor_Email_Template](TEMPLATES/Sponsor_Email_Template.md)) is most of the work |
