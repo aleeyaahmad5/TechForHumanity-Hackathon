@@ -46,18 +46,20 @@ Full rubric with scoring sheet: [TEMPLATES/Judging_Rubric.md](TEMPLATES/Judging_
 
 ## Prize Structure
 
-| Category | Prize |
+**No cash is budgeted for prizes by default** — the budget is deliberately kept to catering only (see [05_Budget_Revenue](05_Budget_Revenue.md)). Prizes are in-kind unless a sponsor specifically volunteers cash for them.
+
+| Category | Prize (default, in-kind) |
 |---|---|
-| 1st Place | Cash + mentorship package from TI MedTech |
-| 2nd Place | Cash + cloud credits (AWS/Google) |
-| 3rd Place | Cash + swag bundle |
-| People's Choice | Cash + community vote recognition |
-| Best Social Impact | Cash — separate from technical polish |
-| Best Presentation | Cash — recognizes communication skill specifically |
+| 1st Place | Cloud credits (AWS/Google) + mentorship package from TI MedTech (if agreed) |
+| 2nd Place | Cloud credits + swag bundle |
+| 3rd Place | Swag bundle |
+| People's Choice | Community vote recognition + swag |
+| Best Social Impact | Recognition — separate from technical polish |
+| Best Presentation | Recognition — communication skill specifically |
 | All teams | LinkedIn-shareable "Tech for Humanity" participation certificate |
 | Winning teams | Introduction to TI MedTech for potential venture/internship support |
 
-Exact dollar amounts depend on the Gold/Silver sponsorship outcome, not TI MedTech (modeled at $0 cash) — see [05_Budget_Revenue](05_Budget_Revenue.md) and [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md).
+If ticket sales meaningfully outperform target (see the profit scenarios in [05_Budget_Revenue](05_Budget_Revenue.md)) or a sponsor volunteers cash specifically earmarked for prizes, upgrade to small cash prizes on top of the above — but don't plan around that happening.
 
 ## Accessibility Accommodations
 

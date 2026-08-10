@@ -40,7 +40,7 @@ Owner key: **K**=Kashaf, **A**=Aleeya, **L**=Leon, **TI**=Dr Irwan/Tita, **VT**=
 | 3.1 | Build sponsor tier deck & prospecting list | Both | K,A,L | 2 | 1.3 | |
 | 3.2 | Enterprise sponsor outreach (IBM, Leon's network) | Both | L | 3–5 | 3.1 | |
 | 3.3 | Local/university sponsor outreach | MEL | K,A | 3–5 | 3.1 | |
-| 3.4 | TI MedTech sponsor agreement signed | Both | K,A,TI | 2–3 | 1.3 | **M4: Anchor sponsor secured** |
+| 3.4 | TI MedTech in-kind agreement signed (logo, judges, workshop — no cash) | Both | K,A,TI | 2–3 | 1.3 | **M4: TI MedTech in-kind commitment confirmed** |
 | 3.5 | Sponsor sign-off deadline | Both | K,A,L | 6 | 3.2, 3.3 | |
 | 3.6 | Sponsor activation (logos, content, confirmations) | Both | A | 7–10 | 3.5 | |
 
@@ -69,8 +69,8 @@ Owner key: **K**=Kashaf, **A**=Aleeya, **L**=Leon, **TI**=Dr Irwan/Tita, **VT**=
 
 | ID | Task | Track | Owner | Weeks | Depends on | Milestone |
 |---|---|---|---|---|---|---|
-| 6.1 | Catering vendor shortlist & quotes | MEL/SG | A | 6–7 | 4.1 (dietary field) | |
-| 6.2 | Catering vendor booked | MEL/SG | A | 8 | 6.1 | |
+| 6.1 | Catering At Its Finest quote obtained (grazing boxes, confirm against $800 cap) | MEL | A | 6–7 | 4.1 (dietary field) | |
+| 6.2 | Lunch Day 1 + Day 2 booked (~100 heads) | MEL | A | 8 | 6.1 | |
 | 6.3 | AV/WiFi requirements confirmed with venue | MEL/SG | K | 9 | 2.3, 2.5 | |
 | 6.4 | WiFi stress test | MEL/SG | K | 14 | 6.3 | |
 | 6.5 | Accessibility accommodations finalized from registration data | MEL/SG | A | 14 | 4.7 | |
@@ -117,4 +117,4 @@ Owner key: **K**=Kashaf, **A**=Aleeya, **L**=Leon, **TI**=Dr Irwan/Tita, **VT**=
 | 10.4 | Lessons-learned session | Both | K,A,L | 18 | 10.1 | |
 | 10.5 | Archival (Drive, 1-page summary for next year) | Both | A | 18 | 10.4 | |
 
-**Milestone summary:** M1 Scope locked (Wk1) → M2/M3 Venues confirmed (Wk2–4) → M4 Anchor sponsor (Wk2–3) → M5 Registration open (Wk3) → M7 Volunteers trained (Wk9–10) → M8 Mentors/judges confirmed (Wk5–7) → M6 Registration closed (Wk15) → M9 Event runs (Wk16) → M10 Books closed (Wk17).
+**Milestone summary:** M1 Scope locked (Wk1) → M2/M3 Venues confirmed (Wk2–4) → M4 TI MedTech in-kind commitment confirmed (Wk2–3) → M5 Registration open (Wk3) → M7 Volunteers trained (Wk9–10) → M8 Mentors/judges confirmed (Wk5–7) → M6 Registration closed (Wk15) → M9 Event runs (Wk16) → M10 Books closed (Wk17).

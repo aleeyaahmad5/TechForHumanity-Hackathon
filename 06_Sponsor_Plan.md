@@ -1,6 +1,6 @@
 # 06 — Sponsor & Partner Engagement Plan
 
-> **TI MedTech is modeled as a logo + in-kind partner, not a cash sponsor** (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)). That means landing at least one **Gold** cash sponsor from this list is now load-bearing for the budget, not a stretch goal — see the breakeven analysis in [05_Budget_Revenue](05_Budget_Revenue.md).
+> **Sponsorship is no longer needed to make the budget work.** With venue, AV, and volunteer costs at $0 and catering capped at $800 for ~100 heads ([05_Budget_Revenue](05_Budget_Revenue.md)), ticket sales alone cover costs across the full 50–100 attendance range. TI MedTech is modeled as a logo + in-kind partner, not a cash sponsor (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)). Every sponsor below — including Gold — is now genuine **upside**: bigger prizes, better food, extra swag, Singapore support — not a solvency requirement.
 
 ## Sponsor Tiers
 
@@ -26,7 +26,7 @@
 | Name | Category | Tier target | Contact owner | Status |
 |---|---|---|---|---|
 | TI MedTech | Anchor (logo + in-kind) | Not treated as a cash tier — $0 cash assumed | K, A, Dr Irwan/Tita | Pending scope call — [01](01_TI_MedTech_Partnership_Clarification.md) |
-| IBM (Leon's connection) | Enterprise | Gold/Platinum — **highest-priority ask, budget depends on it** | Leon | Not yet contacted |
+| IBM (Leon's connection) | Enterprise | Gold/Platinum — worth pursuing for upside (prizes, swag, Singapore support), not required for the budget | Leon | Not yet contacted |
 | Other Leon enterprise contacts | Enterprise | Gold/Silver | Leon | To be named after Week 1 coordination meeting |
 | RMIT clubs / student societies | Local/in-kind | Silver/in-kind | K, A | Not yet contacted |
 | Melbourne uni tech clubs (Melbourne Uni, Monash, Swinburne) | Local/in-kind | Silver/in-kind | K, A | Not yet contacted |
@@ -49,7 +49,7 @@ Full prospecting tracker: [06_Sponsors.csv](06_Sponsors.csv).
 
 TI MedTech's value here isn't the sponsorship line — it's brand, network, and legitimacy, which is exactly what's being asked for instead of money (see [01](01_TI_MedTech_Partnership_Clarification.md)):
 
-- **Brand visibility:** direct access to ~50–80 Melbourne students plus Singapore attendees, in a "social impact tech" context that aligns with TI MedTech's own positioning.
+- **Brand visibility:** direct access to ~50–100 Melbourne students plus Singapore attendees, in a "social impact tech" context that aligns with TI MedTech's own positioning.
 - **Market expansion:** the "Tech for Humanity" theme surfaces exactly the kind of health/accessibility-adjacent student projects TI MedTech would want visibility into early.
 - **University access:** an ongoing relationship with RMIT Activator (via Leon) and a cohort of technically capable students is a low-cost pipeline for future interns or venture leads.
 - **Expected return:** a participant network, brand awareness among the next generation of health-tech talent, and a mentorship pipeline — all at zero cash cost to TI MedTech, which is worth naming explicitly if it helps get their in-kind judge/logo commitment over the line.

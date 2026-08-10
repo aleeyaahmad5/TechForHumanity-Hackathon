@@ -12,7 +12,7 @@ ID,Task,Track,Owner,StartWeek,EndWeek,DependsOn,Milestone
 3.1,Build sponsor tier deck and prospecting list,Both,"K,A,L",2,2,1.3,
 3.2,Enterprise sponsor outreach,Both,L,3,5,3.1,
 3.3,Local and university sponsor outreach,MEL,"K,A",3,5,3.1,
-3.4,TI MedTech sponsor agreement signed,Both,"K,A,TI",2,3,1.3,M4 Anchor sponsor secured
+3.4,TI MedTech in-kind agreement signed (logo judges workshop - no cash),Both,"K,A,TI",2,3,1.3,M4 TI MedTech in-kind commitment confirmed
 3.5,Sponsor sign-off deadline,Both,"K,A,L",6,6,"3.2,3.3",
 3.6,Sponsor activation,Both,A,7,10,3.5,
 4.1,Landing page and registration form live,Both,A,2,3,"1.3,2.3",
@@ -26,8 +26,8 @@ ID,Task,Track,Owner,StartWeek,EndWeek,DependsOn,Milestone
 5.2,Volunteer recruitment launch,Both,"K,A",6,6,5.1,
 5.3,Volunteer confirmations finalized,Both,"K,A",8,8,5.2,
 5.4,Volunteer training sessions,Both,"K,A",9,10,5.3,M7 Volunteers trained
-6.1,Catering vendor shortlist and quotes,MEL/SG,A,6,7,4.1,
-6.2,Catering vendor booked,MEL/SG,A,8,8,6.1,
+6.1,Catering At Its Finest quote obtained (grazing boxes vs $800 cap),MEL,A,6,7,4.1,
+6.2,Lunch Day 1 and Day 2 booked (~100 heads),MEL,A,8,8,6.1,
 6.3,AV and WiFi requirements confirmed with venue,MEL/SG,K,9,9,"2.3,2.5",
 6.4,WiFi stress test,MEL/SG,K,14,14,6.3,
 6.5,Accessibility accommodations finalized,MEL/SG,A,14,14,4.7,

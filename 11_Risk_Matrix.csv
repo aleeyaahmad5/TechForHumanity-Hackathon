@@ -4,7 +4,7 @@ ID,Risk,Likelihood,Impact,Severity,Mitigation,Owner,Trigger
 3,RMIT venue unavailable,Medium,High,High,Secure backup venue by Week 3 explore alternate RMIT spaces hybrid fallback,Leon & Aleeya,RMIT declines by Week 3
 4,Volunteer no-show day-of,Medium,Medium,Medium,Recruit 25% buffer cross-train roles Leon contacts on standby,Tech Lead,Fewer than 10 volunteers confirmed day before
 5,WiFi failure during event,Medium,High,High,Stress test Week 14 backup hotspot offline fallback,Tech Lead,WiFi test shows <50 Mbps for 50 users
-6,No Gold sponsor secured (budget shortfall),High,High,Critical,Prioritize Leon enterprise outreach for Gold commitment set payment terms due 2 weeks pre-event scope-cut fallback ready,Kashaf & Leon,No Gold sponsor confirmed by Week 6 sign-off deadline
+6,Catering quote lands above the $800 cap,Medium,Low,Low,Get actual quote Week 6-7 before locking headcount assumptions even doubled cost is covered by ticket revenue,Aleeya,Quote comes in above $40/box average
 7,Mentor/judge cancellation,Medium,Medium,Medium,Recruit 25% mentor buffer onboard backups mentor FAQ reconfirm 1 week out,Mentorship Coordinator,Mentor cancels <7 days before event
 8,Participant safety incident,Low,High,High,First aid kit trained first aider code of conduct mental health contact quiet space,Venue Lead & Aleeya,Any incident during event
 9,Singapore venue or partner delays,High,High,Critical,Start Singapore sourcing Week 1 TI MedTech identify venue by Week 4 virtual fallback,TI MedTech (Dr Irwan),No Singapore venue confirmed by Week 4

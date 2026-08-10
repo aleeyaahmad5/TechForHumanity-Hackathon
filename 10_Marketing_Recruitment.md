@@ -28,8 +28,8 @@ Registration launches Week 3 (M5) and closes Week 15 (M6) — see [04_Timeline_R
 
 ## Recruitment Targets
 
-- **Melbourne:** 50–80 participants (constrained by RMIT room capacity — confirm exact cap at venue booking, [08_Venue_Logistics](08_Venue_Logistics.md)).
-- **Conversion assumption:** ~200 people reached through marketing → 25–40% convert → 50–80 registrations.
+- **Melbourne:** 50–100 participants, more the better — catering scales with headcount so higher turnout is upside, not risk (see [05_Budget_Revenue](05_Budget_Revenue.md)). Room capacity should comfortably fit 100 ([08_Venue_Logistics](08_Venue_Logistics.md)) — confirm the exact cap at venue booking.
+- **Conversion assumption:** ~250–300 people reached through marketing → 25–40% convert → 65–100+ registrations.
 - **Registration closes 1 week before the event** (Week 15) to lock catering headcount and team allocation.
 
 ## Email Sequence (4 emails)

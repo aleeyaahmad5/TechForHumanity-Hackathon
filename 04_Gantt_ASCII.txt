@@ -19,7 +19,7 @@ Milestones:
   M1  Wk1   Scope locked (TI MedTech)
   M2  Wk3   Melbourne venue confirmed
   M3  Wk4   Singapore venue confirmed
-  M4  Wk3   Anchor sponsor (TI MedTech) secured
+  M4  Wk3   TI MedTech in-kind commitment confirmed (logo, judges, workshop) - not cash, see 05_Budget_Revenue.md
   M5  Wk3   Registration open
   M6  Wk15  Registration closed
   M7  Wk9-10 Volunteers trained

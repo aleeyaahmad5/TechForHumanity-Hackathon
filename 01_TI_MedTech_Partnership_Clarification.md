@@ -1,12 +1,12 @@
 # 01 — TI MedTech Partnership Clarification
 
-**Status:** UNRESOLVED — blocks Sponsor Plan (06), Budget (05), and Singapore track of the WBS (03).
+**Status:** UNRESOLVED — blocks Sponsor Plan (06) and the Singapore track of the WBS (03). The Budget (05) is no longer blocked by this — it closes on ticket sales alone regardless of the outcome.
 **Owner:** Kashaf & Aleeya
 **Deadline:** End of Week 1 (by **2026-08-17**)
 
 TI MedTech has asked: *"What will be the commitments from TI MedTech?"* Nothing downstream — budget, sponsor tiers, Singapore venue, judge/mentor headcount — can be finalized until this is answered. This document is the analysis and recommendation; for the actual call, use **[TI_MedTech_Call_Questions.md](TI_MedTech_Call_Questions.md)** — a single, time-boxed script covering every open question below plus the judge/workshop and Singapore items from later in this plan.
 
-> **Working assumption (confirmed by Kashaf & Aleeya):** TI MedTech is **not expected to contribute cash sponsorship unless explicitly asked**. Do not assume TI MedTech funding as a revenue line in [05_Budget_Revenue](05_Budget_Revenue.md) — model TI MedTech as **logo + limited in-kind only**, and treat any cash they volunteer as upside, not baseline. Ticket sales and non-TI-MedTech sponsors (Gold/Silver, local) are now the primary revenue drivers — see [05_Budget_Revenue](05_Budget_Revenue.md).
+> **Working assumption (confirmed by Kashaf & Aleeya):** TI MedTech is **not expected to contribute cash sponsorship unless explicitly asked**. Do not assume TI MedTech funding as a revenue line in [05_Budget_Revenue](05_Budget_Revenue.md) — model TI MedTech as **logo + limited in-kind only**, and treat any cash they volunteer as upside, not baseline. With venue, AV, and volunteer costs at $0 and catering capped at $800, **ticket sales alone now cover the budget** — see [05_Budget_Revenue](05_Budget_Revenue.md). Sponsors of any kind, including TI MedTech, are pure upside.
 >
 > **In-kind ask, if TI MedTech agrees:** Tita (CEO) and Dr Irwan (CTO) judge in person in Singapore, and separately host a **virtual workshop shown to Melbourne** on Day 1 — see [09_Participant_Experience](09_Participant_Experience.md) and [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md). This is the concrete version of "1 judge" in Scenario A below — pending confirmation on the call (Question 2), not yet locked in.
 

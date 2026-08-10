@@ -2,7 +2,7 @@
 
 **Event Date:** Saturday 28 – Sunday 29 November 2026
 **Venue:** RMIT Activator Hub (room TBD — [08_Venue_Logistics](08_Venue_Logistics.md))
-**Capacity:** 60–80 participants
+**Capacity:** up to 100 participants (target range 50–100, more the better — see [05_Budget_Revenue](05_Budget_Revenue.md))
 **Staff:** Kashaf (Organizer), Aleeya (Organizer), Leon (Advisor, on-site) + volunteers ([07_Volunteer_Staffing](07_Volunteer_Staffing.md))
 
 ## Saturday — Setup (8:00am)
@@ -26,13 +26,13 @@
 | Time | Task | Owner | Notes |
 |---|---|---|---|
 | 10:00–12:00 | Hacking; mentor office hours slot 1 (1:00pm start, see below) | — | |
-| 12:00–1:00 | Lunch | Logistics Lead | Dietary accommodations labeled on tables |
+| 12:00–1:00 | **Lunch (catered)** | Logistics Lead | Catering At Its Finest grazing boxes — see [05_Budget_Revenue](05_Budget_Revenue.md); dietary accommodations labeled on tables |
 | 1:00–3:00 | Hacking; mentor office hours slot 1 | Mentorship Coordinator | 15-min rotating team slots |
-| 3:00–4:00 | Snack break; stretch / mental health break | Participant Experience Lead | Quiet room available |
+| 3:00–4:00 | Break; stretch / mental health break | Participant Experience Lead | Quiet room available; no catered snacks — not budgeted |
 | 4:00–4:45 | **Virtual workshop:** Tita (CEO) & Dr Irwan (CTO), TI MedTech — livestreamed from Singapore | Tech Lead (AV) | Contingent on TI MedTech agreement — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) and [09_Participant_Experience](09_Participant_Experience.md). Test the video call/stream link at the 8:00am AV check. |
 | 5:00–6:00 | Mentor office hours slot 2 | Mentorship Coordinator | |
-| 6:30–7:30 | Dinner | Logistics Lead | |
-| 7:30–9:00 | Late-hacking push | — | Coffee station stays open |
+| 6:30–7:30 | Dinner break (self-organized) | Participant Experience Lead | **Not catered** — one meal a day only (lunch); communicate this in pre-event comms so participants can BYO or self-purchase nearby |
+| 7:30–9:00 | Late-hacking push | — | Coffee station stays open (confirm with RMIT whether this is free/available) |
 
 ## Saturday — Wrap & Safety Check
 
@@ -45,9 +45,9 @@
 
 | Time | Task | Owner | Notes |
 |---|---|---|---|
-| 9:00–10:00 | Breakfast; energy reset | Logistics Lead | Coffee first |
+| 9:00–10:00 | Arrival; energy reset (self-organized breakfast — **not catered**) | Logistics Lead | Coffee/water available if RMIT provides it |
 | 10:00–12:00 | Hacking; mentor office hours slot 3 (final) | Mentorship Coordinator | Last-minute pivots and help |
-| 12:00–1:00 | Lunch | Logistics Lead | |
+| 12:00–1:00 | **Lunch (catered)** | Logistics Lead | Catering At Its Finest grazing boxes |
 | 1:00pm | Submission deadline | Tech Lead | Collect demo links, slides, video if applicable |
 
 ## Sunday — Demo Day & Judging
@@ -79,7 +79,7 @@ Life-threatening emergency    → call 000 (Australia); inform Kashaf immediatel
 Escalate to Leon?             → only if Kashaf/Aleeya are unsure; Leon on standby
 ```
 
-**Contact list** (fill in before event week): Kashaf [phone/email], Aleeya [phone/email], Leon Gouletsas [phone/email], RMIT Facility Manager [phone], Catering vendor [phone], on-site First Aider [name]. Emergency: 000, then notify Kashaf.
+**Contact list** (fill in before event week): Kashaf [phone/email], Aleeya [phone/email], Leon Gouletsas [phone/email], RMIT Facility Manager [phone], Catering At Its Finest [phone/order confirmation], on-site First Aider [name]. Emergency: 000, then notify Kashaf.
 
 ## Critical Timeline (condensed)
 

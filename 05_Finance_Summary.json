@@ -1,49 +1,55 @@
 {
   "currency": "AUD",
-  "status": "PLANNING ESTIMATE — pending confirmed sponsor sign-offs (see 06_Sponsor_Plan.md)",
-  "tiMedTechAssumption": "TI MedTech is not asked for cash sponsorship; modeled at $0 cash, logo + in-kind judge only. See 01_TI_MedTech_Partnership_Clarification.md.",
-  "melbourne": {
-    "revenue": {
-      "tickets": 2016,
-      "sponsorshipCash": 4500,
-      "tiMedTechCash": 0,
-      "total": 6516
+  "status": "PLANNING ESTIMATE — low-budget model, ticket sales fund catering directly",
+  "constraints": {
+    "maxTicketPrice": 35,
+    "targetAttendance": { "min": 50, "max": 100, "note": "more is better; catering scales with headcount" },
+    "venue": "free via RMIT",
+    "avTech": "covered by RMIT, $0",
+    "volunteerAppreciation": 0,
+    "cateringCap": 800,
+    "cateringVendor": "https://www.cateringatitsfinest.com/",
+    "cateringFormat": "grazing boxes, $30-100 each, one meal (lunch) per day, 2 days",
+    "tiMedTechCash": 0
+  },
+  "ticketPricing": {
+    "earlyBird": 20,
+    "standard": 35,
+    "group": 25,
+    "scholarship": 0,
+    "blendedAveragePaid": 27
+  },
+  "scenarios": [
+    {
+      "attendance": 50,
+      "paidTickets": 45,
+      "ticketRevenue": 1215,
+      "expenses": 440,
+      "profitToOrganizers": 775
     },
-    "expenses": {
-      "venue": 200,
-      "catering": 3000,
-      "prizes": 1500,
-      "avTech": 300,
-      "insurance": 300,
-      "marketing": 150,
-      "volunteerAppreciation": 150,
-      "contingency": 672,
-      "total": 6272
+    {
+      "attendance": 80,
+      "paidTickets": 72,
+      "ticketRevenue": 1944,
+      "expenses": 704,
+      "profitToOrganizers": 1240
     },
-    "profitToOrganizers": 244,
-    "breakevenTickets": 56,
-    "targetRegistrationRange": [50, 80],
-    "blendedTicketPrice": 32
+    {
+      "attendance": 100,
+      "paidTickets": 90,
+      "ticketRevenue": 2430,
+      "expenses": 880,
+      "profitToOrganizers": 1550
+    }
+  ],
+  "breakeven": {
+    "worstCaseTickets": 17,
+    "bestCaseTickets": 33,
+    "verdict": "Low-risk by design; ticket sales alone cover costs across the full 50-100 attendance range without any sponsor cash"
   },
   "singapore": {
-    "status": "placeholder — do not commit spend until venue/partner confirmed (milestone M3)",
-    "expenses": {
-      "venue": "TBD",
-      "catering": 1800,
-      "prizes": 900,
-      "avTech": 200,
-      "insurance": 200,
-      "marketing": 100,
-      "contingency": 384,
-      "totalExcludingVenue": 3584
-    },
-    "profitToOrganizers": 0,
-    "note": "No ticket-revenue offset modeled; funding source still open"
+    "status": "placeholder — cost structure entirely unknown, no Melbourne-style free venue assumed",
+    "profitToOrganizers": 0
   },
-  "sensitivity": {
-    "note": "Sponsorship cash is now the dominant swing factor since TI MedTech contributes $0 cash by design.",
-    "noGoldSponsorBreakevenTickets": 133,
-    "zeroSponsorshipCashBreakevenTickets": 196,
-    "verdict": "A Gold sponsor is load-bearing, not optional, under this model"
-  }
+  "openItem": "Confirm actual Catering At Its Finest quote — box serving size and price mix could push catering toward the top of the $800 cap at 100 heads; still covered by ticket revenue either way"
 }

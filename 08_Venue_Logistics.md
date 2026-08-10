@@ -9,13 +9,15 @@
 
 ## Room Requirements
 
-- [ ] Main hacking space — capacity for ~15–20 teams of 4–5, reliable WiFi, ample power outlets
+- [ ] Main hacking space — capacity for ~20–25 teams of 4–5 (up to 100 participants — see [05_Budget_Revenue](05_Budget_Revenue.md) target range), reliable WiFi, ample power outlets
 - [ ] Mentorship/office-hours breakout room(s)
 - [ ] Judging room (private, for deliberation)
 - [ ] Catering/breakout space
 - [ ] Accessible bathrooms (wheelchair, gender-neutral options)
 
 ## AV & Tech
+
+**Covered by RMIT — $0 budget line** (see [05_Budget_Revenue](05_Budget_Revenue.md)). Still confirm each item, just without a spend attached:
 
 - [ ] Projector & screen for opening/closing ceremonies
 - [ ] WiFi bandwidth stress-tested for ~100 concurrent devices (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 6.4, Week 14)
@@ -28,12 +30,14 @@
 
 ## Catering
 
-- [ ] Breakfast (Day 2; Day 1 starts mid-morning so coffee/pastries only)
-- [ ] Lunch both days (2–3 options; dietary accommodations: vegan, halal, gluten-free, nut-free — sourced from registration form)
-- [ ] Snacks throughout
-- [ ] Dinner Day 1 only (Day 2 ends mid-afternoon)
-- [ ] Beverages: water, juice, coffee station (a late-night hack needs real coffee, not just instant)
-- [ ] Headcount: ~100/day (participants + mentors + judges + staff)
+**Budget: ≤ $800 total** (see [05_Budget_Revenue](05_Budget_Revenue.md) for the full math). One meal a day only — lunch — via [Catering At Its Finest](https://www.cateringatitsfinest.com/) grazing boxes ($30–$100/box, ~8–10 servings each). No budget for breakfast, dinner, or snacks by default.
+
+- [ ] **Get an actual quote from Catering At Its Finest** (Week 6–7) — confirm box serving size and price before locking the ~20-box (2 lunches × ~10 boxes) assumption
+- [ ] Lunch Day 1 (grazing boxes, ~100 heads) — dietary accommodations covered by box variety (vegan, halal, gluten-free, nut-free options), cross-checked against registration form data
+- [ ] Lunch Day 2 (grazing boxes, ~100 heads)
+- [ ] Breakfast, dinner, and snacks: **not catered** — communicate this clearly in pre-event comms so participants can plan (BYO or self-purchase nearby); revisit only if a sponsor donates catering as in-kind support
+- [ ] Water: confirm whether RMIT provides a water station/fountain — likely $0 either way
+- [ ] Headcount: ~100/day (participants + mentors/judges + volunteers combined) — catering budget scales down proportionally if attendance lands below 100 (see [05_Budget_Revenue](05_Budget_Revenue.md) scenarios)
 
 ## Accessibility & Inclusion
 
@@ -66,7 +70,7 @@
 | If this fails... | Do this |
 |---|---|
 | RMIT room unavailable | Backup RMIT Activator space, or nearby university venue (source list by Week 3) |
-| Catering vendor falls through | Maintain a backup vendor shortlist from the Week 6–7 quoting round, not just one booked vendor |
+| Catering At Its Finest falls through or quotes over budget | Fewer/smaller grazing boxes (one box per ~10–12 people instead of 8–10), or a backup grazing-box vendor sourced in the same Week 6–7 quoting round |
 | WiFi goes down | Mobile hotspot protocol; fall back to paper registration/judging temporarily |
 | Key volunteer no-shows | Cross-trained role reassignment (see [07_Volunteer_Staffing](07_Volunteer_Staffing.md)); Leon on standby for senior-role gaps |
 

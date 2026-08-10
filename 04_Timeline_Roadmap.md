@@ -7,7 +7,7 @@ Full task-level detail lives in [03_Project_Plan_WBS](03_Project_Plan_WBS.md). T
 | Weeks | Dates | Focus |
 |---|---|---|
 | 1–2 | Aug 10–23 | TI MedTech scope call & decision (**M1**), Leon coordination meeting, RMIT room request, sponsor deck built |
-| 3–4 | Aug 24–Sep 6 | Venues confirmed both cities (**M2/M3**), TI MedTech agreement signed (**M4**), registration live, marketing launch (**M5**), mentor/judge target list |
+| 3–4 | Aug 24–Sep 6 | Venues confirmed both cities (**M2/M3**), TI MedTech in-kind commitment confirmed — logo, judges, workshop, not cash (**M4**), registration live, marketing launch (**M5**), mentor/judge target list |
 | 5–8 | Sep 7–Oct 4 | Marketing push + university outreach, volunteer roles defined & recruitment launched, mentor/judge outreach, sponsor sign-off deadline (Wk6), sponsor activation begins |
 | 9–10 | Oct 5–18 | Volunteer training (**M7**), catering booked, AV/WiFi requirements confirmed, mentorship schedule built |
 | 11–12 | Oct 19–Nov 1 | Buffer / catch-up weeks — no new tracks start; use for anything slipping from Wk5–10 |

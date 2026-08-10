@@ -1,102 +1,76 @@
 # 05 — Budget & Revenue Model
 
-**All dollar figures below are ASSUMPTIONS (AUD) pending confirmed sponsor sign-offs ([06](06_Sponsor_Plan.md)).** Treat this as a planning model to stress-test, not a locked budget. Line items: [05_Budget.csv](05_Budget.csv).
+**All dollar figures below are ASSUMPTIONS (AUD).** Treat this as a planning model to stress-test, not a locked budget. Line items: [05_Budget.csv](05_Budget.csv).
 
-## Assumptions
+## Assumptions (confirmed by Kashaf & Aleeya)
 
-- **TI MedTech is modeled at $0 cash sponsorship.** Kashaf & Aleeya have decided not to proactively ask TI MedTech for money (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)) — TI MedTech contributes logo placement and in-kind support (e.g., 1 judge) only. Any cash they volunteer unprompted is upside, not something this budget depends on.
-- **Ticket sales and non-TI-MedTech sponsors (Gold/Silver, local) are now the primary revenue drivers**, replacing the anchor-sponsor cash this model previously assumed. This makes securing at least one Gold sponsor materially more important than it was before.
-- Melbourne attendance: 70 paid participants (target range 50–80), plus ~10 mentors/judges, ~20 volunteers = ~100 catered heads/day.
-- Singapore attendance and cost structure: **unknown**, pending venue/partner (see [01](01_TI_MedTech_Partnership_Clarification.md) Q4). Modeled as a placeholder mirror of Melbourne at 60% scale, also assuming $0 TI MedTech cash.
-- Revenue model per brief: **Melbourne ticket profit → Kashaf & Aleeya.** Sponsorship funds costs; it is not personal profit. Singapore is not assumed to generate personal profit for the organizers.
+- **No ticket priced over $35** — pricing has to stay accessible or people won't come.
+- **Target attendance: 50–100 registrations, more the better.** Catering cost scales with headcount, so higher turnout doesn't threaten the budget — see scenarios below.
+- **Venue is free** — RMIT Activator, via Leon, no budget line needed.
+- **AV & tech are covered by RMIT** — no budget line needed.
+- **No volunteer appreciation budget** — $0 line.
+- **Catering is the one real cost**, capped at **$800 max** for ~100 heads across 2 days, **one meal a day** (lunch), sourced from **[Catering At Its Finest](https://www.cateringatitsfinest.com/)** (Melbourne), using grazing boxes priced $30–$100 each.
+- **TI MedTech is modeled at $0 cash** (logo + in-kind only — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)). Other sponsors (Gold/Silver) are now **pure upside** — richer prizes, breakfast/snacks, Singapore support — not required for the budget to close.
+- **Ticket revenue is earmarked to cover catering directly**; anything above that is profit to Kashaf & Aleeya (Melbourne only, per the revenue model).
+- Singapore attendance and cost structure: **unknown**, pending venue/partner (see [01](01_TI_MedTech_Partnership_Clarification.md) Q4/Q8-10 in [TI_MedTech_Call_Questions](TI_MedTech_Call_Questions.md)).
 
 ## Revenue
 
-### Ticket Pricing Scenarios (Melbourne)
-
-Prices raised slightly from the prior draft to compensate for the removed TI MedTech cash cushion — see Breakeven Analysis below for why.
+### Ticket Pricing (Melbourne) — hard cap at $35
 
 | Tier | Price | Notes |
 |---|---|---|
-| Early bird (first 3 weeks of sale) | $25 | Drives early registration signal, helps catering headcount planning |
-| Standard | $40 | Weeks 4 onward |
-| Group (4+, i.e., a full team) | $30/person | Encourages teams to register together |
-| Scholarship / under-served community | Free (10% of seats, ~7 tickets) | Directly serves the event's own theme — funded by sponsorship, not ticket revenue |
+| Early bird (first 3 weeks of sale) | $20 | Drives early registration signal, helps catering headcount planning |
+| Standard | $35 | Hard cap — weeks 4 onward |
+| Group (4+, i.e., a full team) | $25/person | Encourages teams to register together |
+| Scholarship / under-served community | Free (~10% of seats) | Directly serves the event's own theme |
 
-Blended average assumed: **~$32/ticket** across 63 paid + 7 scholarship seats.
+Blended average assumed: **~$27/ticket** across paid seats (roughly 90% paid, 10% scholarship).
 
-### Sponsorship Revenue (see [06_Sponsor_Plan](06_Sponsor_Plan.md) for tiers)
+### Sponsorship (see [06_Sponsor_Plan](06_Sponsor_Plan.md))
 
-| Source | Amount |
-|---|---|
-| TI MedTech (logo + in-kind judge only) | $0 cash |
-| 1x Gold sponsor | $2,500 |
-| 2x Silver sponsors | $1,000 each = $2,000 |
-| **Total sponsorship (cash)** | **$4,500** |
-| In-kind (TI MedTech judge, other mentors/judges, some prizes, possible catering support) | Not cashed — reduces expense lines below instead |
-
-### Total Revenue (Melbourne, planning estimate)
-
-| Source | Amount |
-|---|---|
-| Ticket sales (63 × $32 avg) | $2,016 |
-| Sponsorship (cash) | $4,500 |
-| **Total** | **$6,516** |
+No longer needed to make the budget work. TI MedTech is $0 cash by design; any Gold/Silver cash or in-kind support (prizes, breakfast/snacks, extra swag) is a bonus layered on top of a budget that already closes on ticket sales alone.
 
 ## Expenses — Melbourne
 
-Trimmed from the prior draft — without TI MedTech cash as a cushion, catering and prizes (the two largest lines) need to run leaner by default, not just as a stretch goal.
-
-| Category | Estimate | Notes |
+| Category | Amount | Notes |
 |---|---|---|
-| Venue | $200 | RMIT Activator likely in-kind via Leon; budget a nominal cleaning/after-hours fee |
-| Catering (2 days, ~100 heads/day, lean vendor ~$15/head/day) | $3,000 | Breakfast, lunch, snacks, dietary accommodations — negotiate hard here, it's the biggest lever |
-| Prizes (cash + swag, lean on in-kind cloud credits/swag from sponsors) | $1,500 | See prize structure in [09_Participant_Experience](09_Participant_Experience.md) |
-| AV & tech (backup hotspot, cables, print) | $300 | |
-| Insurance & compliance | $300 | Confirm whether covered by RMIT facility agreement first |
-| Marketing materials | $150 | Digital-first; posters printed via RMIT club resources |
-| Volunteer appreciation (not honorarium — food/swag) | $150 | |
-| Contingency (12%) | $672 | |
-| **Total Melbourne expenses** | **$6,272** | |
+| Venue | $0 | RMIT Activator, free via Leon |
+| AV & tech | $0 | Covered by RMIT |
+| Volunteer appreciation | $0 | No budget line |
+| Insurance & compliance | $0 (assumed) | Confirm covered under the RMIT facility agreement — flag if not, this becomes the one line needing a real number |
+| Marketing | $0 | Digital-first / free channels only |
+| Prizes | $0 cash (default) | In-kind only unless a sponsor volunteers cash specifically for prizes — see [09_Participant_Experience](09_Participant_Experience.md) |
+| **Catering (2 lunches, ~100 heads/day, Catering At Its Finest grazing boxes)** | **≤ $800** | See breakdown below — the only real spend in this budget |
+| Contingency (10% of catering only) | ≤ $80 | |
+| **Total (at 100 heads)** | **≤ $880** | Scales down proportionally at lower attendance |
 
-## Expenses — Singapore (placeholder, 60% scale, also $0 TI MedTech cash)
+### Catering math (needs a real vendor quote to confirm)
 
-| Category | Estimate | Notes |
-|---|---|---|
-| Venue | TBD | Depends entirely on partner secured — see [01](01_TI_MedTech_Partnership_Clarification.md) Q4 |
-| Catering | $1,800 | Placeholder, leaner assumption |
-| Prizes | $900 | Placeholder |
-| AV & tech | $200 | |
-| Insurance & compliance | $200 | |
-| Marketing | $100 | |
-| Contingency (12%) | $384 | |
-| **Total Singapore expenses (placeholder)** | **$3,584** | **Do not commit spend here until M3 venue milestone clears.** Singapore has no ticket-revenue offset modeled — funding source is still open (local partner, or sponsors specific to Singapore). |
+- Grazing boxes typically serve ~8–10 people each; priced $30–$100 on [Catering At Its Finest](https://www.cateringatitsfinest.com/).
+- At 100 heads: ~10 boxes per lunch × 2 lunches (Day 1 + Day 2) ≈ 20 boxes.
+- At an average ~$35–40/box: 20 × ~$37 ≈ **$740**, leaving a ~$60 buffer under the $800 cap for delivery fees or a couple of larger boxes.
+- **Action:** get an actual quote from Catering At Its Finest before locking this — box serving sizes and exact pricing vary, and this assumption is the one number in the budget worth double-checking early (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 6.1).
+- Breakfast, dinner, and snacks are **not budgeted** — one meal (lunch) a day only. If ticket sales overshoot target or a sponsor donates catering/snacks, treat it as a nice-to-have add-on, not a baseline.
 
-## Profit Projection (Melbourne only, per revenue model)
+## Profit Projection — by attendance scenario
 
-| | Amount |
-|---|---|
-| Total revenue | $6,516 |
-| Total expenses | $6,272 |
-| **Profit to Kashaf & Aleeya** | **$244** |
+Catering scales with headcount, so more attendance is good for the budget, not risky.
 
-Margin is thinner than the original TI-MedTech-funded model — expected, since a ~$4,000 revenue line was removed and only partly offset by leaner costs and higher ticket prices. See Cost Optimization and Breakeven below for the levers that matter most now.
+| Attendance | Paid tickets (~90%) | Ticket revenue (@ $27 avg) | Catering + contingency | Profit to Kashaf & Aleeya |
+|---|---|---|---|---|
+| 50 (low end) | 45 | $1,215 | ~$440 | **~$775** |
+| 80 (mid) | 72 | $1,944 | ~$704 | **~$1,240** |
+| 100 (target ceiling) | 90 | $2,430 | ~$880 | **~$1,550** |
 
-## Cost Optimization
+This is a materially healthier picture than the earlier draft — dropping venue, AV, and volunteer costs to $0 and capping catering at $800 means **ticket sales alone comfortably cover costs at every point in the 50–100 target range**, without needing any sponsor cash. Sponsors become genuine upside (bigger prizes, better food, Singapore support), not a solvency requirement.
 
-- **Landing at least one Gold sponsor is now mission-critical, not a stretch goal** — see Breakeven below for how much the model depends on it.
-- **In-kind over cash:** every mentor, judge, or prize sourced through Leon's network or TI MedTech's in-kind judge is a direct expense-line reduction — prioritize in-kind asks in every sponsor conversation (see [06_Sponsor_Plan](06_Sponsor_Plan.md)).
-- **University club volunteer labor:** removes any staffing cost line entirely; budget only appreciation (food/swag), not honorariums.
-- **Digital-first marketing:** near-zero cost given social + university mailing lists; the $150 line is buffer, not baseline spend.
-- **Catering is the single largest controllable line ($3,000):** get 3 competing quotes (Week 6–7, see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 6.1) rather than booking the first vendor — a $5/head/day swing changes total cost by ~$1,000.
-- **If sponsorship undershoots the $4,500 target,** the next lever is cutting scope before raising prices further: e.g., drop Day 1 dinner to snacks-only, or reduce swag-only prizes rather than cash prizes.
+## Breakeven Analysis
 
-## Breakeven Analysis (Melbourne)
+- Worst case (50 attendees, lowest catering spend ~$440): breakeven at **~17 paid tickets** — trivially covered even at minimum target attendance.
+- Best case (100 attendees, full $880 spend): breakeven at **~33 paid tickets** — still well under the 90 paid tickets expected at that scale.
+- **Bottom line:** this budget is low-risk by design. The one thing worth tracking closely is whether the actual Catering At Its Finest quote holds near $35–40/box average — if box prices land at the top of their $30–100 range, catering could approach or exceed $800 at 100 heads, which is still comfortably covered by ticket revenue but worth knowing early (get the quote in Week 6–7, see [03_Project_Plan_WBS](03_Project_Plan_WBS.md)).
 
-- Fixed costs not covered by sponsorship cash: $6,272 − $4,500 = **$1,772**
-- At $32 blended ticket price: **breakeven ≈ 56 paid tickets**
-- Target range is 50–80 registrations (63 paid assumed) → breakeven sits near the **low end** of the target range, not comfortably inside it. Undershooting registration is now a real risk to profitability, not just to demo-day energy (see [11_Risk_Register](11_Risk_Register.md) risk #2).
-- **Sensitivity — sponsorship is now the dominant swing factor:**
-  - If **no Gold sponsor lands** (only 2x Silver = $2,000 cash): breakeven rises to **~133 tickets — infeasible** within the 50–80 target. A Gold sponsor is not optional in this model; it's load-bearing.
-  - If **sponsorship cash is $0** entirely (all sponsors decline or go in-kind only): breakeven rises to **~196 tickets — clearly infeasible** at current pricing and capacity. In that scenario, ticket price would need to roughly triple, or expenses would need to be cut well below the lean estimate above.
-- **Bottom line:** removing TI MedTech cash means this budget is no longer self-correcting on ticket sales alone — landing at least one Gold sponsor (M4-equivalent milestone, target Week 6 sign-off per [03_Project_Plan_WBS](03_Project_Plan_WBS.md)) is now as time-critical as registration numbers.
+## Expenses — Singapore (placeholder, unrelated cost base)
+
+Singapore's venue, catering, and cost structure are entirely unknown and not assumed to follow the Melbourne pattern (no confirmed "free venue" equivalent exists there). Do not budget anything here until [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) Q8–10 resolve. Singapore is not assumed to generate profit for Kashaf & Aleeya regardless.

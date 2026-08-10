@@ -10,7 +10,7 @@ Hi [Name],
 
 I'm [Kashaf/Aleeya], a [role] at TI MedTech, co-organizing Tech for Humanity — a student hackathon focused on health, education, housing, and accessibility solutions, running simultaneously in Melbourne (RMIT Activator) and Singapore on 28–29 November 2026.
 
-We expect 50–80 participants in Melbourne alone, backed by RMIT Activator and mentored by [Leon Gouletsas' network / TI MedTech / etc.]. We're looking for partners at three levels:
+We expect 50–100 participants in Melbourne alone, backed by RMIT Activator and mentored by [Leon Gouletsas' network / TI MedTech / etc.]. We're looking for partners at three levels:
 
 - **Platinum ($5,000+):** top-billing logo placement, a speaking slot, 2 judges + 2 mentors, a demo day booth
 - **Gold ($2,000–$4,999):** logo placement, prize contribution, 1–2 mentors
