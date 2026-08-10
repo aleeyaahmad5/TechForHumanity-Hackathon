@@ -1,0 +1,44 @@
+{
+  "currency": "AUD",
+  "status": "PLANNING ESTIMATE — pending TI MedTech scope decision (see 01_TI_MedTech_Partnership_Clarification.md)",
+  "melbourne": {
+    "revenue": {
+      "tickets": 1764,
+      "sponsorshipCash": 8500,
+      "total": 10264
+    },
+    "expenses": {
+      "venue": 200,
+      "catering": 5000,
+      "prizes": 2500,
+      "avTech": 300,
+      "insurance": 300,
+      "marketing": 200,
+      "volunteerAppreciation": 200,
+      "contingency": 1013,
+      "total": 9713
+    },
+    "profitToOrganizers": 551,
+    "breakevenTickets": 44,
+    "targetRegistrationRange": [50, 80]
+  },
+  "singapore": {
+    "status": "placeholder — do not commit spend until venue/partner confirmed (milestone M3)",
+    "expenses": {
+      "venue": "TBD",
+      "catering": 3000,
+      "prizes": 1500,
+      "avTech": 200,
+      "insurance": 200,
+      "marketing": 150,
+      "contingency": 606,
+      "totalExcludingVenue": 5656
+    },
+    "profitToOrganizers": 0
+  },
+  "sensitivity": {
+    "note": "If TI MedTech or another sponsor tier falls through, breakeven ticket count rises toward 75 — near the top of the target registration range.",
+    "worstCaseSponsorshipCash": 2000,
+    "worstCaseBreakevenTickets": 75
+  }
+}

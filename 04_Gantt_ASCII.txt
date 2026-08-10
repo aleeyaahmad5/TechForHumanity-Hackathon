@@ -1,0 +1,30 @@
+TECH FOR HUMANITY HACKATHON — ASCII GANTT (Weeks 1-18, 2026-08-10 to 2026-12-13)
+Event weekend: Sat 28 - Sun 29 Nov 2026 (Week 16)
+# = active work   M = milestone this week   . = inactive
+
+Week #             01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18
+------------------ -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+1  TI MedTech scope M  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+2  Venue coord      #  #  M  M  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+3  Sponsor outreach .  #  M  #  #  #  M  #  #  #  .  .  .  .  .  .  .  .
+4  Marketing/Recrt  .  #  M  #  #  #  #  #  #  #  .  .  #  #  M  .  .  .
+5  Volunteer        .  .  .  .  #  #  #  #  M  #  .  .  .  .  .  .  .  .
+6  Logistics        .  .  .  .  .  #  #  #  #  #  .  .  #  #  .  .  .  .
+7  Mentor/Judge     .  .  .  #  #  #  M  #  #  #  .  .  #  #  #  .  .  .
+8  Participant Exp  .  #  #  #  #  #  #  #  #  #  .  .  #  #  #  .  .  .
+9  On-the-day       .  .  .  .  .  .  .  .  .  .  .  .  .  .  #  M  .  .
+10 Post-event       .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  #  M  #
+
+Milestones:
+  M1  Wk1   Scope locked (TI MedTech)
+  M2  Wk3   Melbourne venue confirmed
+  M3  Wk4   Singapore venue confirmed
+  M4  Wk3   Anchor sponsor (TI MedTech) secured
+  M5  Wk3   Registration open
+  M6  Wk15  Registration closed
+  M7  Wk9-10 Volunteers trained
+  M8  Wk7   Mentors/judges confirmed
+  M9  Wk16  Event runs (Melbourne + Singapore)
+  M10 Wk17  Books closed
+
+Buffer: Weeks 11-12 intentionally hold no new track starts — use for catch-up on any slipped Wk5-10 items.

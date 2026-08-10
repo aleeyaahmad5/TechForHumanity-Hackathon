@@ -1,0 +1,60 @@
+{
+  "event": {
+    "name": "Tech for Humanity: Innovating for Under-Served Communities",
+    "format": "2-day",
+    "dates": { "start": "2026-11-28", "end": "2026-11-29" },
+    "locations": ["Melbourne (RMIT Activator)", "Singapore (venue TBD)"],
+    "planningStart": "2026-08-10"
+  },
+  "milestones": [
+    { "id": "M1", "name": "TI MedTech scope locked", "week": 1, "dueDate": "2026-08-16" },
+    { "id": "M2", "name": "Melbourne venue confirmed", "week": 3, "dueDate": "2026-08-30" },
+    { "id": "M3", "name": "Singapore venue confirmed", "week": 4, "dueDate": "2026-09-06" },
+    { "id": "M4", "name": "Anchor sponsor (TI MedTech) secured", "week": 3, "dueDate": "2026-08-30" },
+    { "id": "M5", "name": "Registration open", "week": 3, "dueDate": "2026-08-30" },
+    { "id": "M6", "name": "Registration closed", "week": 15, "dueDate": "2026-11-22" },
+    { "id": "M7", "name": "Volunteers trained", "week": 10, "dueDate": "2026-10-18" },
+    { "id": "M8", "name": "Mentors and judges confirmed", "week": 7, "dueDate": "2026-09-27" },
+    { "id": "M9", "name": "Event runs (Melbourne and Singapore)", "week": 16, "dueDate": "2026-11-29" },
+    { "id": "M10", "name": "Books closed", "week": 17, "dueDate": "2026-12-06" }
+  ],
+  "phases": [
+    { "id": 1, "name": "TI MedTech Scope Negotiation", "startWeek": 1, "endWeek": 1 },
+    { "id": 2, "name": "Venue Coordination", "startWeek": 1, "endWeek": 4 },
+    { "id": 3, "name": "Sponsor Outreach and Management", "startWeek": 2, "endWeek": 10 },
+    { "id": 4, "name": "Participant Recruitment and Marketing", "startWeek": 2, "endWeek": 15 },
+    { "id": 5, "name": "Volunteer Recruitment and Training", "startWeek": 5, "endWeek": 10 },
+    { "id": 6, "name": "Logistics", "startWeek": 6, "endWeek": 14 },
+    { "id": 7, "name": "Mentor and Judge Recruitment", "startWeek": 4, "endWeek": 15 },
+    { "id": 8, "name": "Participant Experience Design", "startWeek": 2, "endWeek": 15 },
+    { "id": 9, "name": "On-the-Day Execution", "startWeek": 15, "endWeek": 16 },
+    { "id": 10, "name": "Post-Event", "startWeek": 16, "endWeek": 18 }
+  ],
+  "onTheDayCriticalPath": {
+    "melbourne": [
+      { "time": "09:00", "day": 1, "activity": "Registration opens" },
+      { "time": "09:15", "day": 1, "activity": "Welcome and code of conduct" },
+      { "time": "09:30", "day": 1, "activity": "Keynote: Leon or TI MedTech leader" },
+      { "time": "09:45", "day": 1, "activity": "Team formation" },
+      { "time": "10:00", "day": 1, "activity": "Hacking starts" },
+      { "time": "12:00", "day": 1, "activity": "Lunch" },
+      { "time": "13:00", "day": 1, "activity": "Mentor office hours session 1" },
+      { "time": "16:00", "day": 1, "activity": "Snack and mental health break" },
+      { "time": "18:30", "day": 1, "activity": "Dinner" },
+      { "time": "21:00", "day": 1, "activity": "Day 1 close / venue closes" },
+      { "time": "09:00", "day": 2, "activity": "Breakfast, hacking resumes" },
+      { "time": "10:00", "day": 2, "activity": "Mentor office hours session 2 (final)" },
+      { "time": "12:00", "day": 2, "activity": "Lunch" },
+      { "time": "13:00", "day": 2, "activity": "Submission deadline" },
+      { "time": "13:30", "day": 2, "activity": "Judge briefing / demos begin" },
+      { "time": "15:30", "day": 2, "activity": "Judge deliberation" },
+      { "time": "16:00", "day": 2, "activity": "Awards ceremony" },
+      { "time": "16:30", "day": 2, "activity": "Networking and photos" },
+      { "time": "17:30", "day": 2, "activity": "Event close, pack down" }
+    ],
+    "singapore": {
+      "status": "TBD pending venue/partner confirmation (M3)",
+      "note": "Mirror the Melbourne run-of-show once local venue and partner are confirmed; adjust for local timezone (SGT, UTC+8; Melbourne is AEDT, UTC+11 in late Nov)."
+    }
+  }
+}

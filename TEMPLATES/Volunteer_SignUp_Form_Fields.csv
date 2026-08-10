@@ -1,0 +1,12 @@
+FieldName,FieldType,Required,Notes
+Full Name,Text,Yes,
+Email,Email,Yes,
+Phone,Text,Yes,For day-of contact
+University/Organization,Text,No,
+Preferred Role,Multi-select,Yes,"Venue Lead, Tech Lead, Mentorship Coordinator, Judge Coordinator, Participant Experience, Logistics, Social Media/Comms, Any/Floater"
+Availability,Multi-select,Yes,"Sat morning, Sat afternoon/evening, Sun morning, Sun afternoon"
+Prior hackathon volunteer experience,Yes/No,No,
+Dietary restrictions,Text,No,For volunteer catering
+Emergency contact name and phone,Text,Yes,
+T-shirt size,Select,No,If swag provided
+Anything else we should know,Text,No,Accessibility needs, accommodations

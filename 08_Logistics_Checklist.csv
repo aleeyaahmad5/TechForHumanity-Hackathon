@@ -1,0 +1,26 @@
+Category,Item,Owner,Status,Contingency
+Venue,RMIT room booking confirmed,Leon,Pending,Backup RMIT Activator space or nearby uni venue
+Venue,Setup/teardown access confirmed,Leon,Pending,
+Room,Main hacking space capacity 15-20 teams,Leon,Pending,
+Room,Mentorship breakout room,Leon,Pending,
+Room,Judging room (private),Kashaf,Pending,
+Room,Accessible bathrooms,Leon,Pending,
+AV,Projector and screen,Tech Lead,Pending,
+AV,WiFi stress test (~100 devices),Tech Lead,Pending (Week 14),Mobile hotspot fallback
+AV,Backup internet/hotspot,Tech Lead,Pending,
+AV,Power outlets audit,Tech Lead,Pending,
+AV,Audio system,Tech Lead,Pending,
+AV,Judging platform (digital),Judge Coordinator,Pending,Paper scorecards fallback
+Catering,Vendor shortlisted,Aleeya,Pending (Week 6-7),Backup vendor shortlist retained
+Catering,Vendor booked,Aleeya,Pending (Week 8),
+Catering,Dietary accommodations captured,Aleeya,Pending,From registration form
+Accessibility,Wheelchair access confirmed,Leon,Pending,
+Accessibility,Quiet room designated,Aleeya,Pending,
+Accessibility,ASL interpreter on request,Aleeya,Contingent on registration data,
+Safety,Liability insurance confirmed,Leon,Pending,Check RMIT facility agreement first
+Safety,First aid kit + trained first aider,Kashaf,Pending,
+Safety,Fire evacuation plan confirmed,Leon,Pending,
+Compliance,RMIT facility use agreement signed,Leon,Pending,
+Compliance,Participant waivers/code of conduct,Aleeya,Pending,
+Compliance,Photo/video consent captured,Aleeya,Pending,
+Compliance,Working with Children Check (if <18 registrants),Kashaf,Contingent on registration data,
