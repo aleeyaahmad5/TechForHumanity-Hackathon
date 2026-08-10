@@ -26,8 +26,8 @@ ID,Task,Track,Owner,StartWeek,EndWeek,DependsOn,Milestone
 5.2,Volunteer recruitment launch,Both,"K,A",6,6,5.1,
 5.3,Volunteer confirmations finalized,Both,"K,A",8,8,5.2,
 5.4,Volunteer training sessions,Both,"K,A",9,10,5.3,M7 Volunteers trained
-6.1,Catering At Its Finest quote obtained (grazing boxes vs $800 cap),MEL,A,6,7,4.1,
-6.2,Lunch Day 1 and Day 2 booked (~100 heads),MEL,A,8,8,6.1,
+6.1,Catering At Its Finest quote obtained (grazing boxes vs ~$1200 estimate at 150-head ceiling),MEL,A,6,7,4.1,
+6.2,Lunch Day 1 and Day 2 booked (up to 150 heads),MEL,A,8,8,6.1,
 6.3,AV and WiFi requirements confirmed with venue,MEL/SG,K,9,9,"2.3,2.5",
 6.4,WiFi stress test,MEL/SG,K,14,14,6.3,
 6.5,Accessibility accommodations finalized,MEL/SG,A,14,14,4.7,

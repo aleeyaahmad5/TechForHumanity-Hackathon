@@ -1,18 +1,18 @@
 Category,Item,Owner,Status,Contingency
 Venue,RMIT room booking confirmed,Leon,Pending,Backup RMIT Activator space or nearby uni venue
 Venue,Setup/teardown access confirmed,Leon,Pending,
-Room,Main hacking space capacity 20-25 teams (up to 100 participants),Leon,Pending,
+Room,Main hacking space capacity up to 150 total (participants + mentors/judges/volunteers/organizers),Leon,Pending,
 Room,Mentorship breakout room,Leon,Pending,
 Room,Judging room (private),Kashaf,Pending,
 Room,Accessible bathrooms,Leon,Pending,
 AV,Projector and screen,Tech Lead,Pending,
-AV,WiFi stress test (~100 devices),Tech Lead,Pending (Week 14),Mobile hotspot fallback
+AV,WiFi stress test (up to ~150 devices),Tech Lead,Pending (Week 14),Mobile hotspot fallback
 AV,Backup internet/hotspot,Tech Lead,Pending,
 AV,Power outlets audit,Tech Lead,Pending,
 AV,Audio system,Tech Lead,Pending,
 AV,Judging platform (digital),Judge Coordinator,Pending,Paper scorecards fallback
-Catering,Catering At Its Finest quote obtained (grazing boxes),Aleeya,Pending (Week 6-7),Backup grazing-box vendor if quote exceeds $800 cap
-Catering,Lunch Day 1 and Day 2 booked (~100 heads, budget <=$800),Aleeya,Pending (Week 8),
+Catering,Catering At Its Finest quote obtained (grazing boxes),Aleeya,Pending (Week 6-7),Backup grazing-box vendor if quote exceeds ~$1200 at ceiling
+Catering,Lunch Day 1 and Day 2 booked (up to 150 heads, budget <=$1200 at ceiling),Aleeya,Pending (Week 8),
 Catering,Dietary accommodations captured,Aleeya,Pending,From registration form; covered via box variety not separate spend
 Accessibility,Wheelchair access confirmed,Leon,Pending,
 Accessibility,Quiet room designated,Aleeya,Pending,

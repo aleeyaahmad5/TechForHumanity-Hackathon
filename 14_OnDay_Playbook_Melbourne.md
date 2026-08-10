@@ -2,7 +2,7 @@
 
 **Event Date:** Saturday 28 – Sunday 29 November 2026
 **Venue:** RMIT Activator Hub (room TBD — [08_Venue_Logistics](08_Venue_Logistics.md))
-**Capacity:** up to 100 participants (target range 50–100, more the better — see [05_Budget_Revenue](05_Budget_Revenue.md))
+**Capacity:** up to 150 total (participants + mentors/judges/volunteers/organizers); participant target 50–120, more the better — see [05_Budget_Revenue](05_Budget_Revenue.md)
 **Staff:** Kashaf (Organizer), Aleeya (Organizer), Leon (Advisor, on-site) + volunteers ([07_Volunteer_Staffing](07_Volunteer_Staffing.md))
 
 ## Saturday — Setup (8:00am)

@@ -69,8 +69,8 @@ Owner key: **K**=Kashaf, **A**=Aleeya, **L**=Leon, **TI**=Dr Irwan/Tita, **VT**=
 
 | ID | Task | Track | Owner | Weeks | Depends on | Milestone |
 |---|---|---|---|---|---|---|
-| 6.1 | Catering At Its Finest quote obtained (grazing boxes, confirm against $800 cap) | MEL | A | 6–7 | 4.1 (dietary field) | |
-| 6.2 | Lunch Day 1 + Day 2 booked (~100 heads) | MEL | A | 8 | 6.1 | |
+| 6.1 | Catering At Its Finest quote obtained (grazing boxes, confirm against ~$1,200 estimate at 150-head ceiling) | MEL | A | 6–7 | 4.1 (dietary field) | |
+| 6.2 | Lunch Day 1 + Day 2 booked (up to 150 heads) | MEL | A | 8 | 6.1 | |
 | 6.3 | AV/WiFi requirements confirmed with venue | MEL/SG | K | 9 | 2.3, 2.5 | |
 | 6.4 | WiFi stress test | MEL/SG | K | 14 | 6.3 | |
 | 6.5 | Accessibility accommodations finalized from registration data | MEL/SG | A | 14 | 4.7 | |

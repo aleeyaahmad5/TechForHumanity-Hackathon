@@ -11,17 +11,17 @@ Expense,Volunteers,MEL,Appreciation,0,No budget line
 Expense,Insurance,MEL,Insurance and compliance,0,Assumed covered by RMIT facility agreement - confirm
 Expense,Marketing,MEL,Marketing materials,0,Digital-first only
 Expense,Prizes,MEL,Cash prizes,0,In-kind only by default
-Expense,Catering,MEL,2 lunches ~100 heads/day - Catering At Its Finest grazing boxes,800,Cap - see box math in 05_Budget_Revenue.md
-Expense,Contingency,MEL,Contingency (10% of catering),80,
-Expense,Total,MEL,Total Melbourne expenses at 100 heads,880,Scales down proportionally at lower attendance
-Scenario,50 attendees,MEL,Paid tickets (45) revenue @ $27 avg,1215,
-Scenario,50 attendees,MEL,Catering + contingency,440,
-Scenario,50 attendees,MEL,Profit to Kashaf and Aleeya,775,
-Scenario,80 attendees,MEL,Paid tickets (72) revenue @ $27 avg,1944,
-Scenario,80 attendees,MEL,Catering + contingency,704,
-Scenario,80 attendees,MEL,Profit to Kashaf and Aleeya,1240,
-Scenario,100 attendees,MEL,Paid tickets (90) revenue @ $27 avg,2430,
-Scenario,100 attendees,MEL,Catering + contingency,880,
-Scenario,100 attendees,MEL,Profit to Kashaf and Aleeya,1550,
+Expense,Catering,MEL,2 lunches Catering At Its Finest grazing boxes (scales with headcount),1200,Cap at 150-head ceiling - see box math in 05_Budget_Revenue.md
+Expense,Contingency,MEL,Contingency (10% of catering) at ceiling,120,
+Expense,Total,MEL,Total Melbourne expenses at 150-head ceiling,1320,Scales down proportionally at lower attendance
+Scenario,50 total heads,MEL,Paid tickets (45) revenue @ $27 avg,1215,
+Scenario,50 total heads,MEL,Catering + contingency,440,
+Scenario,50 total heads,MEL,Profit to Kashaf and Aleeya,775,
+Scenario,100 total heads,MEL,Paid tickets (90) revenue @ $27 avg,2430,
+Scenario,100 total heads,MEL,Catering + contingency,880,
+Scenario,100 total heads,MEL,Profit to Kashaf and Aleeya,1550,
+Scenario,150 total heads (ceiling),MEL,Paid tickets (135) revenue @ $27 avg,3645,
+Scenario,150 total heads (ceiling),MEL,Catering + contingency,1320,
+Scenario,150 total heads (ceiling),MEL,Profit to Kashaf and Aleeya,2325,
 Expense,Venue,SG,Venue (TBD),0,No Melbourne-style free venue assumed - unknown
 Expense,Total,SG,Singapore costs,0,Placeholder - do not budget until venue/partner confirmed

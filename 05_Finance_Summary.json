@@ -3,13 +3,15 @@
   "status": "PLANNING ESTIMATE — low-budget model, ticket sales fund catering directly",
   "constraints": {
     "maxTicketPrice": 35,
-    "targetAttendance": { "min": 50, "max": 100, "note": "more is better; catering scales with headcount" },
+    "totalCapacityCeiling": 150,
+    "totalCapacityCeilingNote": "everyone combined - participants + mentors + judges + volunteers + organizers",
+    "targetParticipantRegistration": { "min": 50, "max": 120, "note": "more is better; leaves ~20-30 headroom within the 150 ceiling for mentors/judges/volunteers/organizers" },
     "venue": "free via RMIT",
     "avTech": "covered by RMIT, $0",
     "volunteerAppreciation": 0,
-    "cateringCap": 800,
+    "cateringCapAtCeiling": 1200,
     "cateringVendor": "https://www.cateringatitsfinest.com/",
-    "cateringFormat": "grazing boxes, $30-100 each, one meal (lunch) per day, 2 days",
+    "cateringFormat": "grazing boxes, $30-100 each, one meal (lunch) per day, 2 days, scales with total headcount",
     "tiMedTechCash": 0
   },
   "ticketPricing": {
@@ -21,35 +23,36 @@
   },
   "scenarios": [
     {
-      "attendance": 50,
+      "totalHeads": 50,
       "paidTickets": 45,
       "ticketRevenue": 1215,
       "expenses": 440,
       "profitToOrganizers": 775
     },
     {
-      "attendance": 80,
-      "paidTickets": 72,
-      "ticketRevenue": 1944,
-      "expenses": 704,
-      "profitToOrganizers": 1240
-    },
-    {
-      "attendance": 100,
+      "totalHeads": 100,
       "paidTickets": 90,
       "ticketRevenue": 2430,
       "expenses": 880,
       "profitToOrganizers": 1550
+    },
+    {
+      "totalHeads": 150,
+      "label": "ceiling",
+      "paidTickets": 135,
+      "ticketRevenue": 3645,
+      "expenses": 1320,
+      "profitToOrganizers": 2325
     }
   ],
   "breakeven": {
     "worstCaseTickets": 17,
-    "bestCaseTickets": 33,
-    "verdict": "Low-risk by design; ticket sales alone cover costs across the full 50-100 attendance range without any sponsor cash"
+    "bestCaseTicketsAtCeiling": 49,
+    "verdict": "Low-risk by design; ticket sales alone cover costs across the full 50-150 total-head range without any sponsor cash"
   },
   "singapore": {
     "status": "placeholder — cost structure entirely unknown, no Melbourne-style free venue assumed",
     "profitToOrganizers": 0
   },
-  "openItem": "Confirm actual Catering At Its Finest quote — box serving size and price mix could push catering toward the top of the $800 cap at 100 heads; still covered by ticket revenue either way"
+  "openItem": "Confirm actual Catering At Its Finest quote — box serving size and price mix could push catering toward the top of the ~$1,200 estimate at the 150-head ceiling; still covered by ticket revenue either way"
 }

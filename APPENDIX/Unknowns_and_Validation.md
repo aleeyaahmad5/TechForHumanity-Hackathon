@@ -10,7 +10,7 @@
 | 6 | Ticket price (paid vs. scholarship mix) | Medium | Kashaf & Aleeya & Leon | Does the $27 blended average (capped at $35) hold up against local student price sensitivity? | Week 2 |
 | 7 | Mentor & judge availability | Medium | Leon | Can he source 5–8 mentors + 3–4 judges from his network by Week 7? | Week 7 |
 | 8 | Volunteer recruitment capacity | Medium | Kashaf & Aleeya | Can university clubs, RMIT Activator, and the TI MedTech team supply 15–20 volunteers? | Week 7 |
-| 9 | **Catering At Its Finest actual quote** vs. the $800 cap | Medium | Aleeya | What do grazing boxes actually cost per box, and how many people does each serve? See [05_Budget_Revenue](../05_Budget_Revenue.md) box math | Week 6–7 |
+| 9 | **Catering At Its Finest actual quote** vs. the ~$1,200 estimate at the 150-head ceiling | Medium | Aleeya | What do grazing boxes actually cost per box, and how many people does each serve? See [05_Budget_Revenue](../05_Budget_Revenue.md) box math | Week 6–7 |
 | 10 | Accessibility requirements & accommodations | Medium | Participant survey (Week 5 registration data) | Once registration opens, what accommodations are actually requested? | Week 8 |
 
 Unknowns #1 and #2 gate the most downstream work (budget, sponsor tiers, Singapore playbook) — see [11_Risk_Register](../11_Risk_Register.md) risks #1 and #9.

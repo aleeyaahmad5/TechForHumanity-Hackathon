@@ -9,7 +9,7 @@
 
 ## Room Requirements
 
-- [ ] Main hacking space — capacity for ~20–25 teams of 4–5 (up to 100 participants — see [05_Budget_Revenue](05_Budget_Revenue.md) target range), reliable WiFi, ample power outlets
+- [ ] Main hacking space — capacity for **up to 150 total (participants + mentors/judges/volunteers/organizers)**, i.e. ~25–30 teams of 4–5 plus staff (see [05_Budget_Revenue](05_Budget_Revenue.md) capacity ceiling), reliable WiFi, ample power outlets
 - [ ] Mentorship/office-hours breakout room(s)
 - [ ] Judging room (private, for deliberation)
 - [ ] Catering/breakout space
@@ -20,7 +20,7 @@
 **Covered by RMIT — $0 budget line** (see [05_Budget_Revenue](05_Budget_Revenue.md)). Still confirm each item, just without a spend attached:
 
 - [ ] Projector & screen for opening/closing ceremonies
-- [ ] WiFi bandwidth stress-tested for ~100 concurrent devices (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 6.4, Week 14)
+- [ ] WiFi bandwidth stress-tested for up to ~150 concurrent devices (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 6.4, Week 14)
 - [ ] Backup internet (mobile hotspot or secondary provider)
 - [ ] Power outlets & extension cords (audit count vs. team count)
 - [ ] Audio system for announcements
@@ -30,14 +30,14 @@
 
 ## Catering
 
-**Budget: ≤ $800 total** (see [05_Budget_Revenue](05_Budget_Revenue.md) for the full math). One meal a day only — lunch — via [Catering At Its Finest](https://www.cateringatitsfinest.com/) grazing boxes ($30–$100/box, ~8–10 servings each). No budget for breakfast, dinner, or snacks by default.
+**Budget: ≤ $1,200 at full 150-head capacity, scales down at lower attendance** (see [05_Budget_Revenue](05_Budget_Revenue.md) for the full math). One meal a day only — lunch — via [Catering At Its Finest](https://www.cateringatitsfinest.com/) grazing boxes ($30–$100/box, ~8–10 servings each). No budget for breakfast, dinner, or snacks by default.
 
-- [ ] **Get an actual quote from Catering At Its Finest** (Week 6–7) — confirm box serving size and price before locking the ~20-box (2 lunches × ~10 boxes) assumption
-- [ ] Lunch Day 1 (grazing boxes, ~100 heads) — dietary accommodations covered by box variety (vegan, halal, gluten-free, nut-free options), cross-checked against registration form data
-- [ ] Lunch Day 2 (grazing boxes, ~100 heads)
+- [ ] **Get an actual quote from Catering At Its Finest** (Week 6–7) — confirm box serving size and price before locking the ~30-box (2 lunches × ~15 boxes, at the 150-head ceiling) assumption
+- [ ] Lunch Day 1 (grazing boxes, up to 150 heads) — dietary accommodations covered by box variety (vegan, halal, gluten-free, nut-free options), cross-checked against registration form data
+- [ ] Lunch Day 2 (grazing boxes, up to 150 heads)
 - [ ] Breakfast, dinner, and snacks: **not catered** — communicate this clearly in pre-event comms so participants can plan (BYO or self-purchase nearby); revisit only if a sponsor donates catering as in-kind support
 - [ ] Water: confirm whether RMIT provides a water station/fountain — likely $0 either way
-- [ ] Headcount: ~100/day (participants + mentors/judges + volunteers combined) — catering budget scales down proportionally if attendance lands below 100 (see [05_Budget_Revenue](05_Budget_Revenue.md) scenarios)
+- [ ] Headcount: up to 150 total/day (participants + mentors/judges + volunteers + organizers combined) — catering budget scales down proportionally at lower attendance (see [05_Budget_Revenue](05_Budget_Revenue.md) scenarios)
 
 ## Accessibility & Inclusion
 
