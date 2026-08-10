@@ -5,7 +5,7 @@
     "maxTicketPrice": 35,
     "totalCapacityCeiling": 150,
     "totalCapacityCeilingNote": "everyone combined - participants + mentors + judges + volunteers + organizers",
-    "targetParticipantRegistration": { "min": 50, "max": 120, "note": "more is better; leaves ~20-30 headroom within the 150 ceiling for mentors/judges/volunteers/organizers" },
+    "targetParticipantRegistration": { "min": 50, "max": 130, "note": "more is better; leaves ~10-20 headroom within the 150 ceiling for mentors/judges/volunteers/organizers" },
     "venue": "free via RMIT",
     "avTech": "covered by RMIT, $0",
     "volunteerAppreciation": 0,

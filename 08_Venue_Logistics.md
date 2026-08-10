@@ -2,10 +2,10 @@
 
 ## RMIT Room Booking
 
-- **Contact:** Leon, via RMIT Activator.
-- **Required confirmations:** room(s), capacity, booking dates (include setup/teardown buffer either side of Nov 28–29), cancellation policy.
-- **Setup/teardown:** budget a half-day either side (Fri Nov 27 setup, Mon Nov 30 teardown, or same-day if the room allows evening access).
-- **Access & security:** who holds keys/access cards for after-hours (Day 1 runs to ~9pm)? Confirm with RMIT Facility Manager.
+- **Contact:** Prof. Michael A Cowling (RMIT), directly — not via Leon. Leon is advisory only (planning input, occasional sponsor connections); he is not the venue conduit.
+- **Required confirmations:** room(s), capacity, booking dates (include setup buffer before, and the small breakout room needed for the Friday mixer), cancellation policy.
+- **Booking span:** main event Sat 21 – Sun 22 Nov; a smaller room on **Fri 20 Nov evening (6:00–8:00pm)** for the optional pre-event mixer (see [09_Participant_Experience](09_Participant_Experience.md)); setup buffer Fri 20 Nov daytime, teardown same-day after each event day (no overnight access needed, see AV & Tech below).
+- **Access & security:** who holds keys/access cards for staff setup before doors (from ~9:00am, event runs 10am–6pm both days — no after-hours access needed)? Confirm with RMIT Facility Manager.
 
 ## Room Requirements
 
@@ -60,7 +60,7 @@
 
 ## Compliance
 
-- [ ] RMIT facility use agreement signed (Leon to navigate)
+- [ ] RMIT facility use agreement signed (Aleeya, direct with Prof. Michael Cowling)
 - [ ] Participant waivers / code of conduct acknowledged at registration ([TEMPLATES/Participant_Code_of_Conduct.md](TEMPLATES/Participant_Code_of_Conduct.md))
 - [ ] Photo/video consent captured at registration
 - [ ] Working with Children Check — **only required if under-18 participants register**; add an age field to registration to flag this early
@@ -72,7 +72,7 @@
 | RMIT room unavailable | Backup RMIT Activator space, or nearby university venue (source list by Week 3) |
 | Catering At Its Finest falls through or quotes over budget | Fewer/smaller grazing boxes (one box per ~10–12 people instead of 8–10), or a backup grazing-box vendor sourced in the same Week 6–7 quoting round |
 | WiFi goes down | Mobile hotspot protocol; fall back to paper registration/judging temporarily |
-| Key volunteer no-shows | Cross-trained role reassignment (see [07_Volunteer_Staffing](07_Volunteer_Staffing.md)); Leon on standby for senior-role gaps |
+| Key volunteer no-shows | Cross-trained role reassignment (see [07_Volunteer_Staffing](07_Volunteer_Staffing.md)) |
 
 ## Files
 

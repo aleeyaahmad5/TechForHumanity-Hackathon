@@ -1,12 +1,12 @@
-# 10 — Email Sequence (4 emails, Weeks 3–15)
+# 10 — Email Sequence (4 emails, Weeks 3–14)
 
 ## Email 1 — Launch (Week 3)
 
-**Subject:** You're Invited: Tech for Humanity Hackathon (28–29 Nov, Melbourne)
+**Subject:** You're Invited: Tech for Humanity Hackathon (21–22 Nov, Melbourne)
 
 > Hi [First Name],
 >
-> We're running Tech for Humanity — a weekend hackathon for students who want to build real solutions in health, education, housing, and accessibility. Simultaneous events in Melbourne (RMIT Activator) and Singapore, 28–29 November 2026.
+> We're running Tech for Humanity — a weekend hackathon for students who want to build real solutions in health, education, housing, and accessibility. Simultaneous events in Melbourne (RMIT Activator) and Singapore, 21–22 November 2026.
 >
 > You'll get: industry mentors, real judges, a team, and two days to build something that actually matters. No experience required — designers, writers, and first-time coders are as welcome as engineers.
 >
@@ -29,17 +29,19 @@
 
 **Subject:** Only 3 Weeks Left to Register
 
-> Mentors are confirmed. Prizes are locked in. Teams are already forming.
+> Mentors are confirmed. Teams are already forming.
 >
 > If you've been meaning to register, this is the reminder — seats are capped by venue size, and we're filling up.
 >
 > [Register now →]
 
-## Email 4 — Last Call (Week 15)
+## Email 4 — Last Call (Week 14)
 
 **Subject:** Final Days — Seats Almost Gone
 
 > Registration closes this week. Here's what to bring: laptop, charger, and an open mind — teams and skill levels will be balanced for you.
+>
+> Don't have a team yet? Come to our free pre-event mixer, Friday 20 Nov, 6:00–8:00pm at RMIT — casual icebreakers, no pressure. [RSVP for the mixer →]
 >
 > Full logistics (arrival time, address, what's provided) are linked below.
 >

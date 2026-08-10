@@ -1,16 +1,16 @@
 # Sponsor Outreach Email Template
 
-Use for both enterprise (Leon-led) and local/university (Kashaf/Aleeya-led) outreach — see [06_Sponsor_Plan](../06_Sponsor_Plan.md).
+Use for all sponsor outreach — Kashaf & Aleeya lead every tier; Leon only makes an introduction if he has a direct contact — see [06_Sponsor_Plan](../06_Sponsor_Plan.md).
 
 ---
 
-**Subject:** Partner with us — Tech for Humanity Hackathon, 28–29 Nov 2026 (Melbourne + Singapore)
+**Subject:** Partner with us — Tech for Humanity Hackathon, 21–22 Nov 2026 (Melbourne + Singapore)
 
 Hi [Name],
 
-I'm [Kashaf/Aleeya], a [role] at TI MedTech, co-organizing Tech for Humanity — a student hackathon focused on health, education, housing, and accessibility solutions, running simultaneously in Melbourne (RMIT Activator) and Singapore on 28–29 November 2026.
+I'm [Kashaf/Aleeya], a [role] at TI MedTech, co-organizing Tech for Humanity — a student hackathon focused on health, education, housing, and accessibility solutions, running simultaneously in Melbourne (RMIT Activator) and Singapore on 21–22 November 2026.
 
-We expect 50–120 participants in Melbourne alone (up to 150 total including mentors, judges, and volunteers), backed by RMIT Activator and mentored by [Leon Gouletsas' network / TI MedTech / etc.]. We're looking for partners at three levels:
+We expect 50–130 participants in Melbourne alone (up to 150 total including mentors, judges, and volunteers), backed by RMIT Activator and mentored by industry professionals from TI MedTech and our own network. We're looking for partners at three levels:
 
 - **Platinum ($5,000+):** top-billing logo placement, a speaking slot, 2 judges + 2 mentors, a demo day booth
 - **Gold ($2,000–$4,999):** logo placement, prize contribution, 1–2 mentors

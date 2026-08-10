@@ -24,7 +24,7 @@ Illustrative persona: "Alex," a second-year student attending Melbourne. Grounde
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────┐
-│ FRAME 3: EVENT KICKOFF (Day 1, Sat 28 Nov, 9am)                         │
+│ FRAME 3: EVENT KICKOFF (Day 1, Sat 28 Nov, 10am)                        │
 │                                                                           │
 │  Alex arrives at RMIT, nervous. Registers, gets name tag & swag.        │
 │  Meets: Skill-matched team (3 other students from different backgrounds)│
@@ -36,19 +36,20 @@ Illustrative persona: "Alex," a second-year student attending Melbourne. Grounde
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────┐
-│ FRAME 4: HACKING & MENTORSHIP (Day 1, 2pm)                              │
+│ FRAME 4: HACKING & MENTORSHIP (Day 1, 2pm-4pm block)                    │
 │                                                                           │
 │  Alex & team brainstorm: accessible appointment booking for             │
 │  low-income clinics.                                                    │
 │  Office hours: a mentor asks critical questions; the team pivots.       │
 │  Thinks: "Harder than I thought, but my mentor gets it. This is real."  │
 │  Feels: Flow state, camaraderie with teammates                          │
-│  Snack break; teammates bond over dinner                                │
-│  Late evening: team stuck; mentor helps debug; breakthrough             │
+│  4pm: team tunes into the TI MedTech workshop for a fresh idea          │
+│  Late afternoon: team stuck; mentor helps debug; breakthrough           │
+│  by the 5:45pm Day 1 wrap-up                                            │
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────┐
-│ FRAME 5: DEMO DAY (Day 2, Sun 29 Nov, 1:30pm)                           │
+│ FRAME 5: DEMO DAY (Day 2, Sun 29 Nov, 2:15pm)                           │
 │                                                                           │
 │  Alex & team pitch to judges (3-minute slot).                           │
 │  Thinks: "I'm nervous. Will they like it?"                              │
@@ -61,7 +62,7 @@ Illustrative persona: "Alex," a second-year student attending Melbourne. Grounde
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────┐
-│ FRAME 6: CLOSING & BEYOND (Day 2, 4-5:30pm + Week 1 post)               │
+│ FRAME 6: CLOSING & BEYOND (Day 2, 4:30-6pm + Week 1 post)               │
 │                                                                           │
 │  Closing ceremony. Alex receives a certificate + team photo.            │
 │  Exchanges LinkedIn with teammates & mentors.                           │

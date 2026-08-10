@@ -17,7 +17,7 @@ Sent within 24 hours of event close. Full template: [09_Survey_Template.md](09_S
 
 These roll up directly into the HEART targets set in [02_Executive_Summary](02_Executive_Summary.md) — don't track new metrics that aren't already implied there.
 
-## Sponsor Handoff (Week 17, within 1 week post-event)
+## Sponsor Handoff (Week 16, within 1 week post-event)
 
 Deliver to each sponsor (TI MedTech gets the full version regardless of scope scenario — see [01](01_TI_MedTech_Partnership_Clarification.md) Q7):
 
@@ -25,7 +25,7 @@ Deliver to each sponsor (TI MedTech gets the full version regardless of scope sc
 - Participant list for future outreach, **only where consent was captured at registration**
 - A short thank-you note
 
-## Lessons Learned Session (Week 18)
+## Lessons Learned Session (Week 17)
 
 - Team debrief: what went well, what didn't, what changes next time
 - Document in the shared Drive (see Archival below) — this becomes the seed for next year's plan

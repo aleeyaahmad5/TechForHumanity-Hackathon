@@ -1,6 +1,6 @@
 # 09 — Participant Journey Map
 
-Adapted to the recommended 2-day format (Sat 28 – Sun 29 Nov 2026). See [13_Participant_Storyboard](13_Participant_Storyboard.md) for the narrative version of this same journey.
+Adapted to the recommended 2-day format (Sat 21 – Sun 22 Nov 2026). See [13_Participant_Storyboard](13_Participant_Storyboard.md) for the narrative version of this same journey.
 
 ## 1. Awareness (Weeks 3–6)
 - **Touchpoint:** Instagram, LinkedIn, or uni club poster.
@@ -32,7 +32,7 @@ Adapted to the recommended 2-day format (Sat 28 – Sun 29 Nov 2026). See [13_Pa
 - **Emotion:** Flow state (ideally), occasional frustration, camaraderie.
 - **Opportunity:** Structured office hours, a visible progress/sharing wall, steady snack supply.
 
-## 6. Demo Day (Day 2, 1:30–3:30pm)
+## 6. Demo Day (Day 2, 2:15–4:00pm)
 - **Touchpoint:** Pitch to judges, watch other teams present.
 - **Thought:** "Did we win? What did others build?"
 - **Emotion:** Pride, adrenaline, inspiration from peers.

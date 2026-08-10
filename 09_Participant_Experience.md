@@ -16,11 +16,15 @@ Full journey map: [09_Journey_Map.md](09_Journey_Map.md).
 
 **Recommendation: Option B.** It directly serves the "all skill levels welcome" positioning in marketing ([10_Marketing_Recruitment](10_Marketing_Recruitment.md)) without leaving a technical team without any designer, or vice versa.
 
+## Pre-Event Mixer (Friday 20 Nov, 6:00–8:00pm, optional)
+
+A free, casual "get to know each other" session at RMIT the evening before the event — icebreakers and light activities, aimed specifically at people who are **still looking for a team or want to network casually** before Saturday. Not for people who already have a team; it's an opt-in RSVP, separate from core registration, promoted via the Week 13–14 marketing push (see [10_Marketing_Recruitment](10_Marketing_Recruitment.md)). This complements the skill-based team formation above by giving undecided participants a lower-pressure way to find teammates before the clock starts. Full run-of-show: [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md).
+
 ## Mentorship Model
 
-- **Office hours (2-day format):** Saturday 1:00–3:00pm & 5:00–6:00pm; Sunday 10:00am–12:00pm (final session before submission deadline). Each slot: 15-minute rotating check-ins per team.
+- **Office hours (2-day format, 10am–6pm event days):** Saturday 11:00am–1:00pm & 2:00–4:00pm; Sunday 10:00am–1:00pm (final session before the 1:45pm submission deadline). Each slot: 15-minute rotating check-ins per team.
 - **Mentor brief:** sent 1 week before event (Week 15) with team introductions and suggested questions to probe (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 7.3).
-- **Mentor network:** Leon's connections (enterprise), TI MedTech, RMIT Activator, university faculty.
+- **Mentor network:** sourced directly by Kashaf & Aleeya — TI MedTech, university faculty, and other industry contacts. Leon connects us if he has a direct contact, but isn't the primary source.
 - **Estimated:** 3–5 mentors for Melbourne, rotated across the three office-hours slots so no team goes a full day without input.
 
 ## TI MedTech Workshop (contingent — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md))
@@ -31,35 +35,37 @@ Scheduling logic: the workshop sits on **Day 1**, not Day 2, so it doesn't compe
 
 ## Judging Criteria & Rubric
 
-Framed around "Tech for Humanity":
+Framed around "Tech for Humanity" and weighted toward **innovation over technical polish** — this is judged on the strength of the idea, not whether it's code. A pitch deck, physical prototype, service-design mockup, or no-code tool is judged on equal footing with a working app.
 
 | Criterion | Weight |
 |---|---|
 | Innovation — novel approach, creative thinking | 25% |
 | Impact — addresses a real problem, scalable, measurable benefit | 25% |
-| Execution — code quality, polish, demo clarity | 20% |
+| Execution — quality and feasibility of what was actually demonstrated (code, prototype, mockup, or pitch — any format counts) | 20% |
 | Presentation — clear pitch, engaging story | 15% |
 | Social Responsibility — accessibility, ethics, inclusivity | 15% |
 | Bonus | Extra judge discretion if the solution includes accessibility features or centers marginalized voices |
+
+**Explicitly not required:** a working codebase. Teams without a technical member are not at a judging disadvantage — communicate this clearly in marketing and at the opening ceremony so non-technical participants don't self-select out (see [10_Marketing_Recruitment](10_Marketing_Recruitment.md)).
 
 Full rubric with scoring sheet: [TEMPLATES/Judging_Rubric.md](TEMPLATES/Judging_Rubric.md).
 
 ## Prize Structure
 
-**No cash is budgeted for prizes by default** — the budget is deliberately kept to catering only (see [05_Budget_Revenue](05_Budget_Revenue.md)). Prizes are in-kind unless a sponsor specifically volunteers cash for them.
+**Prizes are TBD overall** — the one confirmed anchor is that **1st place includes a mentorship package from TI MedTech, contingent on their agreement** (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)), plus a second component still to be decided. **No cash is budgeted for prizes by default** — the budget is deliberately kept to catering only (see [05_Budget_Revenue](05_Budget_Revenue.md)). Prizes are in-kind unless a sponsor specifically volunteers cash for them.
 
-| Category | Prize (default, in-kind) |
+| Category | Prize |
 |---|---|
-| 1st Place | Cloud credits (AWS/Google) + mentorship package from TI MedTech (if agreed) |
-| 2nd Place | Cloud credits + swag bundle |
-| 3rd Place | Swag bundle |
-| People's Choice | Community vote recognition + swag |
-| Best Social Impact | Recognition — separate from technical polish |
-| Best Presentation | Recognition — communication skill specifically |
+| 1st Place | **Mentorship package from TI MedTech (if agreed)** + [TBD — second component not yet decided] |
+| 2nd Place | TBD |
+| 3rd Place | TBD |
+| People's Choice | TBD |
+| Best Social Impact | TBD |
+| Best Presentation | TBD |
 | All teams | LinkedIn-shareable "Tech for Humanity" participation certificate |
 | Winning teams | Introduction to TI MedTech for potential venture/internship support |
 
-If ticket sales meaningfully outperform target (see the profit scenarios in [05_Budget_Revenue](05_Budget_Revenue.md)) or a sponsor volunteers cash specifically earmarked for prizes, upgrade to small cash prizes on top of the above — but don't plan around that happening.
+Default assumption for the TBD slots: in-kind (cloud credits, swag) rather than cash, consistent with the low-budget model — but not locked in. Decide the remaining prize components once sponsor in-kind offers are known (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 8.5, Weeks 8–10). If ticket sales meaningfully outperform target (see the profit scenarios in [05_Budget_Revenue](05_Budget_Revenue.md)) or a sponsor volunteers cash specifically earmarked for prizes, small cash prizes become an option — but don't plan around that happening.
 
 ## Accessibility Accommodations
 

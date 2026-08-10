@@ -15,10 +15,10 @@
 
 | Weeks | Activity | Owner |
 |---|---|---|
-| 1–2 | Identify prospects: Leon → enterprise tier; Kashaf/Aleeya → local/university tier | L / K,A |
-| 2 | Sponsor tier deck finalized | K,A,L |
-| 3–5 | Initial outreach (email + call) | L (enterprise), K,A (local) |
-| 6 | Sponsor sign-off deadline | K,A,L |
+| 1–2 | Identify prospects (Kashaf/Aleeya lead all tiers; ask Leon if he has a direct contact worth an introduction) | K,A |
+| 2 | Sponsor tier deck finalized | K,A |
+| 3–5 | Initial outreach (email + call) | K,A |
+| 6 | Sponsor sign-off deadline | K,A |
 | 7–10 | Sponsor activation (logo, content, confirmations) | A |
 
 ## Sponsor Prospecting List
@@ -26,12 +26,12 @@
 | Name | Category | Tier target | Contact owner | Status |
 |---|---|---|---|---|
 | TI MedTech | Anchor (logo + in-kind) | Not treated as a cash tier — $0 cash assumed | K, A, Dr Irwan/Tita | Pending scope call — [01](01_TI_MedTech_Partnership_Clarification.md) |
-| IBM (Leon's connection) | Enterprise | Gold/Platinum — worth pursuing for upside (prizes, swag, Singapore support), not required for the budget | Leon | Not yet contacted |
-| Other Leon enterprise contacts | Enterprise | Gold/Silver | Leon | To be named after Week 1 coordination meeting |
+| IBM (possible Leon introduction) | Enterprise | Gold/Platinum — worth pursuing for upside (prizes, swag, Singapore support), not required for the budget | K, A (Leon to introduce if willing) | Not yet contacted |
+| Other enterprise contacts (asked from Leon, if any) | Enterprise | Gold/Silver | K, A | To be identified after checking in with Leon |
 | RMIT clubs / student societies | Local/in-kind | Silver/in-kind | K, A | Not yet contacted |
 | Melbourne uni tech clubs (Melbourne Uni, Monash, Swinburne) | Local/in-kind | Silver/in-kind | K, A | Not yet contacted |
 | Local Melbourne tech firms | Local | Silver | K, A | Not yet contacted |
-| Startup accelerators (RMIT Activator network) | In-kind (mentors) | In-kind | Leon | Warm — Leon's existing network |
+| Startup accelerators / mentor networks | In-kind (mentors) | In-kind | K, A | Sourced directly by Kashaf & Aleeya; Leon connects us if he has a direct contact |
 
 Full prospecting tracker: [06_Sponsors.csv](06_Sponsors.csv).
 
@@ -51,17 +51,21 @@ TI MedTech's value here isn't the sponsorship line — it's brand, network, and 
 
 - **Brand visibility:** direct access to up to 150 Melbourne attendees (participants, mentors, judges, volunteers) plus Singapore attendees, in a "social impact tech" context that aligns with TI MedTech's own positioning.
 - **Market expansion:** the "Tech for Humanity" theme surfaces exactly the kind of health/accessibility-adjacent student projects TI MedTech would want visibility into early.
-- **University access:** an ongoing relationship with RMIT Activator (via Leon) and a cohort of technically capable students is a low-cost pipeline for future interns or venture leads.
+- **University access:** an ongoing relationship with RMIT (via Prof. Michael A Cowling) and a cohort of technically capable students is a low-cost pipeline for future interns or venture leads.
 - **Expected return:** a participant network, brand awareness among the next generation of health-tech talent, and a mentorship pipeline — all at zero cash cost to TI MedTech, which is worth naming explicitly if it helps get their in-kind judge/logo commitment over the line.
 
 **Concrete in-kind ask (contingent on agreement):** Tita (CEO) and Dr Irwan (CTO) judge in person in Singapore on demo day, and separately host a live virtual workshop for Melbourne on Day 1, ~4:00–4:45pm (see [09_Participant_Experience](09_Participant_Experience.md), [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)). This is a specific, low-cost way to get CEO/CTO-level visibility in both cities without a cash ask — lead with it on the call.
 
-## Leon's Role
+## Leon's Role (deliberately limited)
 
-- Leads **enterprise sponsor outreach** — he has the credibility and existing relationships (IBM, broader startup/mentor network) that Kashaf & Aleeya don't yet have as interns.
-- Advises on **sponsor activation & tier structuring** — drawing on having run hundreds of hackathons, he should sanity-check the tier pricing above before outreach begins.
-- **Introduces** Kashaf & Aleeya directly to key contacts rather than making asks on their behalf, so the interns build their own sponsor relationships for future events.
-- Given his Singapore experience, Leon is also the best-placed person (alongside TI MedTech) to make an introduction for the Singapore venue/partner gap — flag this explicitly in the Week 1 coordination meeting.
+Kashaf & Aleeya own sponsor outreach, mentor/judge recruitment, and venue coordination themselves. Leon's role is **advisory only**:
+
+- Planning and strategy input, drawing on having run hundreds of hackathons.
+- A quick sanity-check on the tier pricing above, if useful.
+- **Occasional sponsor introductions** — only if he has a direct contact worth introducing (e.g., possibly IBM). He is not expected to lead outreach or work a prospect list.
+- If he happens to have a genuine Singapore contact, that's worth asking about (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) Q4) — but Singapore sourcing does not depend on him.
+
+RMIT venue matters go through **Prof. Michael A Cowling directly**, not Leon — see [08_Venue_Logistics](08_Venue_Logistics.md).
 
 ## Email template
 

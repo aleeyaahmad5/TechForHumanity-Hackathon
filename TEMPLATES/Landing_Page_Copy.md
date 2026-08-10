@@ -5,7 +5,7 @@
 **Headline:** Tech for Humanity: Innovate. Connect. Impact.
 **Subheading:** Solve real-world problems in health, education, housing & accessibility. 2 days. Industry mentors. No experience needed.
 **CTA button:** Get Your Ticket
-**Sub-CTA:** 28–29 Nov 2026 · Melbourne (RMIT Activator) + Singapore
+**Sub-CTA:** 21–22 Nov 2026 · Melbourne (RMIT Activator) + Singapore
 
 ## What
 
@@ -13,7 +13,7 @@ A weekend hackathon where student teams build solutions to real problems facing 
 
 ## When
 
-Saturday 28 – Sunday 29 November 2026. Full run-of-show shared closer to the date.
+Saturday 21 – Sunday 22 November 2026. Full run-of-show shared closer to the date.
 
 ## Where
 
@@ -21,11 +21,11 @@ Melbourne: RMIT Activator Hub. Singapore: venue to be announced. Simultaneous ev
 
 ## Why
 
-Students with talent and ideas often don't get a low-barrier way to test them against real industry feedback. This is that chance — with mentorship, a real judging panel, and prizes that go beyond cash (see below).
+Students with talent and ideas often don't get a low-barrier way to test them against real industry feedback. This is that chance — with mentorship, a real judging panel, and judging that rewards the strength of your idea, not whether you wrote code.
 
 ## Who
 
-All skill levels welcome — coders, designers, writers, and first-time hackers alike. Teams are matched for a mix of skills, so you don't need to arrive with a team or a specific technical background.
+All skill levels welcome — coders, designers, writers, and first-time hackers alike. Teams are matched for a mix of skills, so you don't need to arrive with a team or a specific technical background. Don't have a team yet? Come to our free pre-event mixer, Friday 20 Nov, 6-8pm at RMIT — casual, no pressure, just a chance to meet people first.
 
 ## Prizes
 
@@ -33,9 +33,10 @@ All skill levels welcome — coders, designers, writers, and first-time hackers 
 
 ## FAQ
 
-**Do I need to know how to code?** No — teams are matched to include a mix of skills.
+**Do I need to know how to code?** No — teams are matched to include a mix of skills, and your final demo doesn't have to be code either. A pitch deck, prototype, or mockup is judged on equal footing.
 **What should I bring?** Laptop, charger, and an open mind. Full logistics sent before the event.
 **Is there a cost?** Tiered pricing (early bird / standard / group), with scholarship seats available — see registration for current pricing.
+**I don't have a team — can I still come?** Yes. Teams are formed on the day, or come to the free pre-event mixer on Fri 20 Nov to meet people beforehand.
 **What if I have accessibility needs?** The registration form asks directly, and accommodations are built into the day — see our accessibility commitments.
 **Is there a code of conduct?** Yes — [read it here].
 

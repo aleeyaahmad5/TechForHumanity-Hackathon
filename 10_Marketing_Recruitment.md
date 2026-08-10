@@ -24,13 +24,13 @@ Talented students in under-served communities often don't know hackathons exist,
 | YouTube short / Loom video | Explainer (2–3 min) | 3 | 1 upload | Aleeya / Leon |
 | TI MedTech newsletter | TI MedTech network | 2 | 1 email | Dr Irwan / Kashaf |
 
-Registration launches Week 3 (M5) and closes Week 15 (M6) — see [04_Timeline_Roadmap](04_Timeline_Roadmap.md).
+Registration launches Week 3 (M5) and closes Week 14 (M6) — see [04_Timeline_Roadmap](04_Timeline_Roadmap.md). The optional pre-event mixer (Fri 20 Nov, see [09_Participant_Experience](09_Participant_Experience.md)) is promoted separately via a lightweight opt-in RSVP during the Week 13–14 push, not folded into core registration.
 
 ## Recruitment Targets
 
-- **Melbourne:** 50–120 participants, more the better — the room needs to hold mentors/judges/volunteers too, within a 150-person total capacity ceiling (see [05_Budget_Revenue](05_Budget_Revenue.md)). Catering scales with headcount so higher turnout is upside, not risk. Confirm the exact venue cap at booking ([08_Venue_Logistics](08_Venue_Logistics.md)).
+- **Melbourne:** 50–130 participants, more the better — the room needs to hold mentors/judges/volunteers too, within a 150-person total capacity ceiling (see [05_Budget_Revenue](05_Budget_Revenue.md)). Catering scales with headcount so higher turnout is upside, not risk. Confirm the exact venue cap at booking ([08_Venue_Logistics](08_Venue_Logistics.md)).
 - **Conversion assumption:** ~250–300 people reached through marketing → 25–40% convert → 65–100+ registrations.
-- **Registration closes 1 week before the event** (Week 15) to lock catering headcount and team allocation.
+- **Registration closes ~1 week before the event** (Week 14) to lock catering headcount and team allocation.
 
 ## Email Sequence (4 emails)
 
@@ -41,7 +41,7 @@ Full copy: [10_Email_Sequences.md](10_Email_Sequences.md).
 | 3 (launch) | "You're Invited" — problem statement, mentor bios |
 | 6 (awareness) | "Why You Should Attend" — testimonials, participant profiles |
 | 13 (urgency) | "Only 3 Weeks Left" — mentor names, prize pool, FOMO |
-| 15 (last call) | "Final Days to Register" — seat availability, what to bring |
+| 14 (last call) | "Final Days to Register" — seat availability, what to bring, pre-event mixer RSVP reminder |
 
 ## Landing Page Copy
 

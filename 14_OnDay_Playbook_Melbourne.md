@@ -1,72 +1,84 @@
 # 14 — On-the-Day Playbook: Melbourne
 
-**Event Date:** Saturday 28 – Sunday 29 November 2026
+**Event Date:** Saturday 21 – Sunday 22 November 2026
+**Event hours: 10:00am–6:00pm both days** (short-day format — two work blocks, 10:00–1:00 and 2:00–6:00, split by a 45-minute lunch)
 **Venue:** RMIT Activator Hub (room TBD — [08_Venue_Logistics](08_Venue_Logistics.md))
-**Capacity:** up to 150 total (participants + mentors/judges/volunteers/organizers); participant target 50–120, more the better — see [05_Budget_Revenue](05_Budget_Revenue.md)
-**Staff:** Kashaf (Organizer), Aleeya (Organizer), Leon (Advisor, on-site) + volunteers ([07_Volunteer_Staffing](07_Volunteer_Staffing.md))
+**Capacity:** up to 150 total (participants + mentors/judges/volunteers/organizers); participant target 50–130, more the better — see [05_Budget_Revenue](05_Budget_Revenue.md)
+**Staff:** Kashaf (Organizer), Aleeya (Organizer) + volunteers ([07_Volunteer_Staffing](07_Volunteer_Staffing.md)). Leon is an advisor, not operational staff — he may attend (e.g., to give the keynote) but isn't relied on for a role.
 
-## Saturday — Setup (8:00am)
+## Friday 20 Nov — Pre-Event Mixer (6:00–8:00pm, optional)
 
-| Time | Task | Owner | Notes |
-|---|---|---|---|
-| 8:00–8:30 | Venue walkthrough, AV test | Tech Lead | Confirm WiFi, projector, sound; if the TI MedTech workshop is confirmed, test the video call/stream link end-to-end now, not at 4pm |
-| 8:30–9:00 | Registration table setup, name tags ready | Participant Experience Lead | Alphabetical order for quick handoff |
-| 9:00–9:30 | *(overlaps with doors)* Volunteer briefing already done prior evening or 7:30am — see Training in [07_Volunteer_Staffing](07_Volunteer_Staffing.md) | Kashaf | Roles, escalation, contact list |
-
-## Saturday — Opening Ceremony
+Free, casual "get to know each other" session at RMIT — icebreakers and light activities. **Opt-in only, for people still looking for a team or wanting to network** — not for people who already have a team, and not part of core registration (separate lightweight RSVP, promoted via the Week 13–14 marketing push, see [10_Marketing_Recruitment](10_Marketing_Recruitment.md)).
 
 | Time | Task | Owner | Notes |
 |---|---|---|---|
-| 9:00–9:15 | Welcome, code of conduct | Aleeya | Emphasize psychological safety |
-| 9:15–9:30 | Keynote: Leon or TI MedTech leader | Leon / Dr Irwan | "Why Tech for Humanity matters" |
-| 9:30–10:00 | Team formation activity | Participant Experience Lead | Skill-based matching, see [09_Participant_Experience](09_Participant_Experience.md) |
+| 5:30–6:00 | Room setup (small breakout room, not the main hacking space) | Aleeya | See [08_Venue_Logistics](08_Venue_Logistics.md) |
+| 6:00–6:15 | Welcome, quick icebreaker | Aleeya | Keep it low-key — this is a mixer, not an opening ceremony |
+| 6:15–7:45 | Casual activities / open mingling | Aleeya + 1–2 volunteers | No formal program needed; light structure only |
+| 7:45–8:00 | Wrap-up, remind attendees of Saturday 10am start | Aleeya | |
 
-## Saturday — Hacking Block 1 (10:00am–9:00pm)
+No catering budget for this — self-serve water only, unless surplus ticket revenue or a sponsor covers light snacks (not a baseline assumption, see [05_Budget_Revenue](05_Budget_Revenue.md)).
 
-| Time | Task | Owner | Notes |
-|---|---|---|---|
-| 10:00–12:00 | Hacking; mentor office hours slot 1 (1:00pm start, see below) | — | |
-| 12:00–1:00 | **Lunch (catered)** | Logistics Lead | Catering At Its Finest grazing boxes — see [05_Budget_Revenue](05_Budget_Revenue.md); dietary accommodations labeled on tables |
-| 1:00–3:00 | Hacking; mentor office hours slot 1 | Mentorship Coordinator | 15-min rotating team slots |
-| 3:00–4:00 | Break; stretch / mental health break | Participant Experience Lead | Quiet room available; no catered snacks — not budgeted |
-| 4:00–4:45 | **Virtual workshop:** Tita (CEO) & Dr Irwan (CTO), TI MedTech — livestreamed from Singapore | Tech Lead (AV) | Contingent on TI MedTech agreement — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) and [09_Participant_Experience](09_Participant_Experience.md). Test the video call/stream link at the 8:00am AV check. |
-| 5:00–6:00 | Mentor office hours slot 2 | Mentorship Coordinator | |
-| 6:30–7:30 | Dinner break (self-organized) | Participant Experience Lead | **Not catered** — one meal a day only (lunch); communicate this in pre-event comms so participants can BYO or self-purchase nearby |
-| 7:30–9:00 | Late-hacking push | — | Coffee station stays open (confirm with RMIT whether this is free/available) |
-
-## Saturday — Wrap & Safety Check
+## Saturday — Setup (staff only, before doors)
 
 | Time | Task | Owner | Notes |
 |---|---|---|---|
-| 9:00–9:30 | Day 1 wrap-up; safety check-in | Kashaf | "How are you feeling? Anyone need support?" |
-| 9:30pm | Venue closes | Venue Lead | Confirm overnight access policy with RMIT ahead of time |
+| 9:00–9:30 | Venue walkthrough, AV test | Tech Lead | Confirm WiFi, projector, sound; if the TI MedTech workshop is confirmed, test the video call/stream link end-to-end now, not at 4pm |
+| 9:30–9:45 | Registration table setup, name tags ready | Participant Experience Lead | Alphabetical order for quick handoff |
+| 9:45–10:00 | Doors open, participant check-in | Participant Experience Lead | |
 
-## Sunday — Hacking Block 2
-
-| Time | Task | Owner | Notes |
-|---|---|---|---|
-| 9:00–10:00 | Arrival; energy reset (self-organized breakfast — **not catered**) | Logistics Lead | Coffee/water available if RMIT provides it |
-| 10:00–12:00 | Hacking; mentor office hours slot 3 (final) | Mentorship Coordinator | Last-minute pivots and help |
-| 12:00–1:00 | **Lunch (catered)** | Logistics Lead | Catering At Its Finest grazing boxes |
-| 1:00pm | Submission deadline | Tech Lead | Collect demo links, slides, video if applicable |
-
-## Sunday — Demo Day & Judging
+## Saturday — Work Block 1 (10:00am–1:00pm)
 
 | Time | Task | Owner | Notes |
 |---|---|---|---|
-| 1:00–1:30 | Judge briefing (rubric, timing) | Judge Coordinator | See [TEMPLATES/Judging_Rubric.md](TEMPLATES/Judging_Rubric.md) |
-| 1:30–3:30 | Team demos (3 min pitch + Q&A each) | Judge Coordinator | Record for post-event recap video if possible |
-| 3:30–4:00 | Judge deliberation (private room) | Judge Coordinator | Scores tallied, awards decided |
+| 10:00–10:15 | Welcome, code of conduct | Aleeya | Emphasize psychological safety |
+| 10:15–10:30 | Keynote: Leon or TI MedTech leader | Leon / Dr Irwan | "Why Tech for Humanity matters" |
+| 10:30–11:00 | Team formation activity | Participant Experience Lead | Skill-based matching, see [09_Participant_Experience](09_Participant_Experience.md) |
+| 11:00–1:00 | Hacking; mentor office hours slot 1 | Mentorship Coordinator | 15-min rotating team slots |
 
-## Sunday — Awards & Closing
+## Saturday — Lunch (1:00–1:45pm)
 
 | Time | Task | Owner | Notes |
 |---|---|---|---|
-| 4:00–4:30 | Award ceremony (multiple categories) | Aleeya | See prize structure in [09_Participant_Experience](09_Participant_Experience.md) |
-| 4:30–5:00 | Networking, photos, team celebration | Participant Experience Lead | Encourage LinkedIn exchanges |
-| 5:00–5:15 | Closing remarks, thank mentors/volunteers | Kashaf | Announce next steps (mentorship follow-up) |
-| 5:15pm | Event close | — | |
-| 5:15–6:00 | Teardown, volunteer thank-you | Logistics Lead | Snacks/thank-you gifts for volunteers |
+| 1:00–1:45 | **Lunch (catered)** | Logistics Lead | Catering At Its Finest grazing boxes — see [05_Budget_Revenue](05_Budget_Revenue.md); dietary accommodations labeled on tables |
+
+## Saturday — Work Block 2 (2:00–6:00pm)
+
+| Time | Task | Owner | Notes |
+|---|---|---|---|
+| 2:00–4:00 | Hacking; mentor office hours slot 2 | Mentorship Coordinator | |
+| 4:00–4:45 | **Virtual workshop:** Tita (CEO) & Dr Irwan (CTO), TI MedTech — livestreamed from Singapore | Tech Lead (AV) | Contingent on TI MedTech agreement — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) and [09_Participant_Experience](09_Participant_Experience.md). Tested at the 9:00am AV check. |
+| 4:45–5:45 | Hacking (final Day 1 push) | — | |
+| 5:45–6:00 | Day 1 wrap-up; safety check-in | Kashaf | "How are you feeling? Anyone need support?" |
+| 6:00pm | Venue closes | Venue Lead | No overnight access — short-day format, nothing to arrange |
+
+Breakfast and dinner are **not catered** — one meal a day only (lunch). Communicate this clearly in pre-event comms.
+
+## Sunday — Work Block 1 (10:00am–1:00pm)
+
+| Time | Task | Owner | Notes |
+|---|---|---|---|
+| 9:45–10:00 | Doors open | Participant Experience Lead | |
+| 10:00–1:00 | Hacking; mentor office hours slot 3 (final) | Mentorship Coordinator | Last-minute pivots and help |
+
+## Sunday — Lunch & Submission (1:00–2:00pm)
+
+| Time | Task | Owner | Notes |
+|---|---|---|---|
+| 1:00–1:45 | **Lunch (catered)** | Logistics Lead | Catering At Its Finest grazing boxes |
+| 1:45pm | Submission deadline | Tech Lead | Collect demo links, slides, video if applicable |
+| 1:45–2:00 | Buffer / judge briefing prep | Judge Coordinator | |
+
+## Sunday — Work Block 2: Demo Day, Judging, Awards (2:00–6:00pm)
+
+| Time | Task | Owner | Notes |
+|---|---|---|---|
+| 2:00–2:15 | Judge briefing (rubric, timing) | Judge Coordinator | See [TEMPLATES/Judging_Rubric.md](TEMPLATES/Judging_Rubric.md) |
+| 2:15–4:00 | Team demos (short pitch + Q&A each) | Judge Coordinator | Record for post-event recap video if possible. With up to ~25–30 teams at the 150-head ceiling, keep pitches tight (aim ~3–4 min including Q&A) or run parallel judging rooms — confirm actual team count before finalizing per-team time |
+| 4:00–4:30 | Judge deliberation (private room) | Judge Coordinator | Scores tallied, awards decided |
+| 4:30–5:00 | Award ceremony (multiple categories) | Aleeya | See prize structure in [09_Participant_Experience](09_Participant_Experience.md) |
+| 5:00–5:30 | Networking, photos, closing remarks | Kashaf / Participant Experience Lead | Encourage LinkedIn exchanges; thank mentors/volunteers; announce next steps |
+| 5:30–6:00 | Teardown, volunteer thank-you | Logistics Lead | Event closes; snacks/thank-you gifts for volunteers |
 
 ## Key Contacts & Escalation Path
 

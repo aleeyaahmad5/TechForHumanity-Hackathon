@@ -5,9 +5,9 @@
 ## Assumptions (confirmed by Kashaf & Aleeya)
 
 - **No ticket priced over $35** — pricing has to stay accessible or people won't come.
-- **Total capacity ceiling: 150 heads** — everyone combined (participants + mentors + judges + volunteers + organizers). Participant registration target: **50–120, more the better**, leaving headroom within the 150 cap for ~20–30 mentors/judges/volunteers/organizers (see [07_Volunteer_Staffing](07_Volunteer_Staffing.md), [09_Participant_Experience](09_Participant_Experience.md)).
+- **Total capacity ceiling: 150 heads** — everyone combined (participants + mentors + judges + volunteers + organizers). Participant registration target: **50–130, more the better**, leaving headroom within the 150 cap for ~10–20 mentors/judges/volunteers/organizers (see [07_Volunteer_Staffing](07_Volunteer_Staffing.md), [09_Participant_Experience](09_Participant_Experience.md)).
 - Catering cost scales with total headcount, so higher turnout doesn't threaten the budget — see scenarios below.
-- **Venue is free** — RMIT Activator, via Leon, no budget line needed.
+- **Venue is free** — RMIT Activator, arranged directly with Prof. Michael A Cowling (RMIT), no budget line needed.
 - **AV & tech are covered by RMIT** — no budget line needed.
 - **No volunteer appreciation budget** — $0 line.
 - **Catering is the one real cost**, sourced from **[Catering At Its Finest](https://www.cateringatitsfinest.com/)** (Melbourne) using grazing boxes priced $30–$100 each, **one meal a day** (lunch) across 2 days. Scales with actual headcount, up to **~$1,200 at full 150-person capacity**.
@@ -36,7 +36,7 @@ No longer needed to make the budget work. TI MedTech is $0 cash by design; any G
 
 | Category | Amount | Notes |
 |---|---|---|
-| Venue | $0 | RMIT Activator, free via Leon |
+| Venue | $0 | RMIT Activator, free, arranged directly with Prof. Michael Cowling |
 | AV & tech | $0 | Covered by RMIT |
 | Volunteer appreciation | $0 | No budget line |
 | Insurance & compliance | $0 (assumed) | Confirm covered under the RMIT facility agreement — flag if not, this becomes the one line needing a real number |

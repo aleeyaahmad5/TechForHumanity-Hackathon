@@ -1,10 +1,11 @@
 Category,Item,Owner,Status,Contingency
-Venue,RMIT room booking confirmed,Leon,Pending,Backup RMIT Activator space or nearby uni venue
-Venue,Setup/teardown access confirmed,Leon,Pending,
-Room,Main hacking space capacity up to 150 total (participants + mentors/judges/volunteers/organizers),Leon,Pending,
-Room,Mentorship breakout room,Leon,Pending,
+Venue,RMIT room booking confirmed,"Kashaf, Aleeya (via Prof Michael Cowling)",Pending,Backup RMIT Activator space or nearby uni venue
+Venue,Setup/teardown access confirmed,"Kashaf, Aleeya",Pending,
+Room,Main hacking space capacity up to 150 total (participants + mentors/judges/volunteers/organizers),"Kashaf, Aleeya",Pending,
+Room,Mentorship breakout room,"Kashaf, Aleeya",Pending,
 Room,Judging room (private),Kashaf,Pending,
-Room,Accessible bathrooms,Leon,Pending,
+Room,Accessible bathrooms,"Kashaf, Aleeya",Pending,
+Room,Friday mixer breakout room (Fri 20 Nov evening),Aleeya,Pending,
 AV,Projector and screen,Tech Lead,Pending,
 AV,WiFi stress test (up to ~150 devices),Tech Lead,Pending (Week 14),Mobile hotspot fallback
 AV,Backup internet/hotspot,Tech Lead,Pending,
@@ -14,13 +15,13 @@ AV,Judging platform (digital),Judge Coordinator,Pending,Paper scorecards fallbac
 Catering,Catering At Its Finest quote obtained (grazing boxes),Aleeya,Pending (Week 6-7),Backup grazing-box vendor if quote exceeds ~$1200 at ceiling
 Catering,Lunch Day 1 and Day 2 booked (up to 150 heads, budget <=$1200 at ceiling),Aleeya,Pending (Week 8),
 Catering,Dietary accommodations captured,Aleeya,Pending,From registration form; covered via box variety not separate spend
-Accessibility,Wheelchair access confirmed,Leon,Pending,
+Accessibility,Wheelchair access confirmed,"Kashaf, Aleeya",Pending,
 Accessibility,Quiet room designated,Aleeya,Pending,
 Accessibility,ASL interpreter on request,Aleeya,Contingent on registration data,
-Safety,Liability insurance confirmed,Leon,Pending,Check RMIT facility agreement first
+Safety,Liability insurance confirmed,"Kashaf, Aleeya",Pending,Check RMIT facility agreement first
 Safety,First aid kit + trained first aider,Kashaf,Pending,
-Safety,Fire evacuation plan confirmed,Leon,Pending,
-Compliance,RMIT facility use agreement signed,Leon,Pending,
+Safety,Fire evacuation plan confirmed,"Kashaf, Aleeya",Pending,
+Compliance,RMIT facility use agreement signed,Aleeya (via Prof Michael Cowling),Pending,
 Compliance,Participant waivers/code of conduct,Aleeya,Pending,
 Compliance,Photo/video consent captured,Aleeya,Pending,
 Compliance,Working with Children Check (if <18 registrants),Kashaf,Contingent on registration data,

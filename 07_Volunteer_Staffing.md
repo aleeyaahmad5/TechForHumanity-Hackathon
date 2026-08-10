@@ -21,7 +21,7 @@ Melbourne-focused; Singapore mirrors this structure at a smaller scale once the 
 
 - University clubs (RMIT Activator, Melbourne Uni, Monash, Swinburne)
 - TI MedTech team (Dr Irwan, Tita, other interns)
-- Leon's network — reserved for senior/specialist roles only (Tech Lead, Judge Coordinator) if student volunteers can't cover them
+- A possible Leon introduction, only if student volunteers can't cover a senior/specialist role (Tech Lead, Judge Coordinator) — not the default channel
 - Open call on social media & email (see [10_Marketing_Recruitment](10_Marketing_Recruitment.md))
 
 ## Recruitment Timeline (maps to [03_Project_Plan_WBS](03_Project_Plan_WBS.md) §5)
@@ -41,14 +41,13 @@ Melbourne-focused; Singapore mirrors this structure at a smaller scale once the 
 - [ ] Emergency procedures (first aid location, fire exits, assembly point)
 - [ ] Communication protocols (shared Slack/WhatsApp channel, check-in cadence)
 
-## Shift Schedule (2-day format)
+## Shift Schedule (2-day format, 10am–6pm event days)
 
 | Shift | Day 1 (Sat) | Day 2 (Sun) |
 |---|---|---|
-| Morning | 8:00am–2:00pm | 8:00am–2:00pm |
-| Afternoon/Evening | 1:30pm–9:30pm | 1:30pm–6:00pm |
+| Full day | 9:00am–6:00pm | 9:00am–6:00pm |
 
-Every role should have at least 2 people covering it across shifts so no single volunteer works a full 13-hour day. Cross-train Venue Lead ↔ Logistics Lead and Participant Experience ↔ Judge Coordinator so shifts are interchangeable if someone no-shows (see [11_Risk_Register](11_Risk_Register.md) — Volunteer no-show risk).
+Each day is now a 9-hour day (staff arrive 9am for setup, doors 10am, close 6pm) rather than the 13+ hour day in earlier drafts, so most roles can run a single full-day shift instead of a split morning/evening rotation. Still put at least 2 people on each role so no one is stuck without a lunch break, and cross-train Venue Lead ↔ Logistics Lead and Participant Experience ↔ Judge Coordinator so coverage is interchangeable if someone no-shows (see [11_Risk_Register](11_Risk_Register.md) — Volunteer no-show risk).
 
 ## Files
 
