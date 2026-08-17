@@ -34,7 +34,7 @@ Subject: Volunteer for Tech for Humanity — 21-22 Nov
 ```
 We're building a bench of mentors and judges for Tech for Humanity, a
 student hackathon focused on health, education, housing, and
-accessibility solutions — 21-22 Nov, Melbourne + Singapore.
+accessibility solutions — 21-22 Nov, Melbourne.
 
 If you've shipped a product and want to spend a few hours giving real
 feedback to students building their first one, we'd love to talk.

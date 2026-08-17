@@ -1,66 +1,38 @@
-# TI MedTech Call — Question Script (1 hour)
+# TI MedTech Call — Outcome Record
+
+**Status:** RESOLVED — this call has taken place; the questions below are kept as a record of what was asked and confirmed. See [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) for the current source of truth on scope.
 
 **Attendees:** Kashaf, Aleeya, Dr Irwan (CTO), Tita (CEO)
-**Goal:** leave this call with enough to finalize [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md), unblock the Singapore track, and confirm (or rule out) the judge/workshop ask — nothing else in the plan can be finalized until this call happens.
-**How to use this doc:** work through it in order — it's roughly time-boxed to 60 minutes. Type answers directly under each question during the call; it becomes the record of what was agreed.
+
+**Confirmed outcome:** TI MedTech will contribute **only** as a judge (joining virtually) and by hosting a virtual workshop for participants on Day 1. No cash, no co-production, no additional people, no theme narrowing, no venue support. **No further commitment will be given** — do not re-open this ask.
 
 ---
 
-## A. Brand & Scope (10 min)
+## A. Brand & Scope
 
-1. **Do you want to be listed as the primary sponsor** (logo + optional funding, hands-off) **or as a co-producer** (shared billing, active role in programming and judging)?
-   *Answer:*
+1. **Primary sponsor vs. co-producer?** — Resolved: logo + in-kind partner (not co-producer, not primary funder).
+2. **Narrow the theme toward MedTech/health?** — Resolved: theme stays broad (health, education, housing, accessibility).
 
-2. **Do you want the "Tech for Humanity" theme narrowed** toward MedTech/health-specific problem statements, or kept broad across health, education, housing, and accessibility?
-   *Answer:*
+## B. People & Programming
 
-## B. People & Programming (20 min)
+3. **Judges, mentors, or speakers?** — Resolved: Tita and/or Dr Irwan judge, joining virtually.
+4. **Willing to host a ~45-minute live virtual workshop on Day 1?** — Resolved: yes, confirmed. Topic, platform, and hosting logistics to be finalized directly with TI MedTech (see [09_Participant_Experience](09_Participant_Experience.md), [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)).
+5. **Any conflicts on TI MedTech's side?** — None flagged; confirm scheduling closer to the date.
 
-3. **Will you provide judges, mentors, or speakers?** If so — how many people, for how many hours, on which day(s)?
-   *Answer:*
+## C. Budget
 
-4. **Specifically: are Tita and Dr Irwan willing to judge in person in Singapore** on demo day (Day 2, Sunday 29 Nov)?
-   *Answer:*
+6. **Dollar allocation from TI MedTech?** — Resolved: none. $0 cash, confirmed rather than merely assumed.
 
-5. **Would Tita and/or Dr Irwan be willing to host a ~45-minute live virtual workshop for the Melbourne participants** on Day 1 (Saturday 28 Nov, currently slotted ~4:00–4:45pm AEDT / 1:00–1:45pm SGT)? If yes:
-   - What topic would be genuinely useful to student teams at that point in the day (e.g., how a MedTech startup validates an idea, a real regulatory/product constraint to design around)?
-   - Where would it be hosted from — the Singapore venue, your own office, or remote — so we know whose AV setup needs to support it?
-   - Any technical requirements on your end (platform preference — Zoom/Teams/Meet, screen share, slides)?
-   *Answer:*
+## D. IP, Follow-on & Reporting
 
-6. **Does the Day 1 workshop conflict with anything on your side** (e.g., you're also judging Singapore's demo day on Day 2 — confirming there's no double-booking across the two days)?
-   *Answer:*
-
-## C. Budget (5 min)
-
-7. **Is there a dollar allocation from TI MedTech** for prizes, catering, venue, or marketing — and if so, is it a fixed amount or matched/conditional? *(We're not asking for this proactively — our budget doesn't depend on the answer — but want to know if it's on the table.)*
-   *Answer:*
-
-## D. Singapore (15 min) — the most time-critical item on this call
-
-8. **Do you have an existing venue, partner organization, or local contact in Singapore** we could use, or does this need to be sourced independently (via Leon or cold outreach)?
-   *Answer:*
-
-9. **Who owns that relationship** — is it something you can introduce us to directly, or does it need to go through someone else at TI MedTech?
-   *Answer:*
-
-10. **If there's no existing lead, do you have a realistic timeline** for finding one? (We need this resolved by Week 4 — 2026-09-06 — or we escalate to a reduced-scope/virtual Singapore format.)
-    *Answer:*
-
-## E. IP, Follow-on & Reporting (10 min)
-
-11. **If a team builds something adjacent to TI MedTech's business, do you want right of first conversation** for venture support or internship pipelines, or no claim at all?
-    *Answer:*
-
-12. **What do you need from us post-event** (ROI deck, participant list, photos, metrics) to justify this internally — and who should it go to?
-    *Answer:*
+7. **Right of first conversation on adjacent ventures?** — Not raised as part of this confirmed scope; no claim made either way.
+8. **Post-event reporting needs?** — No formal reporting obligation beyond the standard short thank-you note and summary sent to all partners (see [12_Evaluation_PostEvent](12_Evaluation_PostEvent.md)).
 
 ---
 
-## After the Call
+## After the Call (completed)
 
-- [ ] Update [01_TI_MedTech_Partnership_Clarification.md](01_TI_MedTech_Partnership_Clarification.md) with the scope decision (Scenario A/B)
-- [ ] Update [09_Participant_Experience.md](09_Participant_Experience.md) and [14_OnDay_Playbook_Melbourne.md](14_OnDay_Playbook_Melbourne.md) — confirm or remove the workshop slot based on Q5/Q6
-- [ ] Update [14_OnDay_Playbook_Singapore.md](14_OnDay_Playbook_Singapore.md) and [11_Risk_Register.md](11_Risk_Register.md) risk #9 based on Q8–Q10
-- [ ] If a budget figure came up in Q7, update [05_Budget_Revenue.md](05_Budget_Revenue.md) as an upside line, not a baseline change
-- [ ] Loop in Leon with the outcome before end of Week 1 (2026-08-16)
+- [x] Updated [01_TI_MedTech_Partnership_Clarification.md](01_TI_MedTech_Partnership_Clarification.md) with the confirmed scope
+- [x] Updated [09_Participant_Experience.md](09_Participant_Experience.md) and [14_OnDay_Playbook_Melbourne.md](14_OnDay_Playbook_Melbourne.md) to confirm the workshop slot
+- [x] Retired the Singapore track entirely — the event is now Melbourne-only, so the venue/partner questions that used to sit in this section no longer apply
+- [x] Looped in Leon with the outcome

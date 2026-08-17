@@ -1,6 +1,6 @@
 # 06 — Sponsor & Partner Engagement Plan
 
-> **Sponsorship is no longer needed to make the budget work.** With venue, AV, and volunteer costs at $0 and catering scaling with headcount up to ~$1,200 at the 150-person capacity ceiling ([05_Budget_Revenue](05_Budget_Revenue.md)), ticket sales alone cover costs across the full 50–150 total-head range. TI MedTech is modeled as a logo + in-kind partner, not a cash sponsor (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)). Every sponsor below — including Gold — is now genuine **upside**: bigger prizes, better food, extra swag, Singapore support — not a solvency requirement.
+> **Sponsorship is no longer needed to make the budget work.** With venue, AV, and volunteer costs at $0 and catering scaling with headcount up to ~$1,200 at the 150-person capacity ceiling ([05_Budget_Revenue](05_Budget_Revenue.md)), ticket sales alone cover costs across the full 50–150 total-head range. TI MedTech is confirmed as a logo + judge + workshop partner, not a cash sponsor (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)). Every sponsor below — including Gold — is now genuine **upside**: bigger prizes, better food, extra swag — not a solvency requirement.
 
 ## Sponsor Tiers
 
@@ -25,8 +25,8 @@
 
 | Name | Category | Tier target | Contact owner | Status |
 |---|---|---|---|---|
-| TI MedTech | Anchor (logo + in-kind) | Not treated as a cash tier — $0 cash assumed | K, A, Dr Irwan/Tita | Pending scope call — [01](01_TI_MedTech_Partnership_Clarification.md) |
-| IBM (possible Leon introduction) | Enterprise | Gold/Platinum — worth pursuing for upside (prizes, swag, Singapore support), not required for the budget | K, A (Leon to introduce if willing) | Not yet contacted |
+| TI MedTech | Anchor (logo + in-kind) | Not treated as a cash tier — $0 cash confirmed | K, A, Dr Irwan/Tita | Confirmed: judge + Day 1 workshop only, no further ask — [01](01_TI_MedTech_Partnership_Clarification.md) |
+| IBM (possible Leon introduction) | Enterprise | Gold/Platinum — worth pursuing for upside (prizes, swag), not required for the budget | K, A (Leon to introduce if willing) | Not yet contacted |
 | Other enterprise contacts (asked from Leon, if any) | Enterprise | Gold/Silver | K, A | To be identified after checking in with Leon |
 | RMIT clubs / student societies | Local/in-kind | Silver/in-kind | K, A | Not yet contacted |
 | Melbourne uni tech clubs (Melbourne Uni, Monash, Swinburne) | Local/in-kind | Silver/in-kind | K, A | Not yet contacted |
@@ -47,14 +47,14 @@ Full prospecting tracker: [06_Sponsors.csv](06_Sponsors.csv).
 
 ## TI MedTech — Why It's Worth Anchoring the Event Even Without Cash
 
-TI MedTech's value here isn't the sponsorship line — it's brand, network, and legitimacy, which is exactly what's being asked for instead of money (see [01](01_TI_MedTech_Partnership_Clarification.md)):
+TI MedTech's value here isn't the sponsorship line — it's brand, network, and legitimacy, which is exactly what was asked for instead of money (see [01](01_TI_MedTech_Partnership_Clarification.md)):
 
-- **Brand visibility:** direct access to up to 150 Melbourne attendees (participants, mentors, judges, volunteers) plus Singapore attendees, in a "social impact tech" context that aligns with TI MedTech's own positioning.
+- **Brand visibility:** direct access to up to 150 Melbourne attendees (participants, mentors, judges, volunteers), in a "social impact tech" context that aligns with TI MedTech's own positioning.
 - **Market expansion:** the "Tech for Humanity" theme surfaces exactly the kind of health/accessibility-adjacent student projects TI MedTech would want visibility into early.
 - **University access:** an ongoing relationship with RMIT (via Prof. Michael A Cowling) and a cohort of technically capable students is a low-cost pipeline for future interns or venture leads.
-- **Expected return:** a participant network, brand awareness among the next generation of health-tech talent, and a mentorship pipeline — all at zero cash cost to TI MedTech, which is worth naming explicitly if it helps get their in-kind judge/logo commitment over the line.
+- **Expected return:** a participant network, brand awareness among the next generation of health-tech talent, and a mentorship pipeline — all at zero cash cost to TI MedTech.
 
-**Concrete in-kind ask (contingent on agreement):** Tita (CEO) and Dr Irwan (CTO) judge in person in Singapore on demo day, and separately host a live virtual workshop for Melbourne on Day 1, ~4:00–4:45pm (see [09_Participant_Experience](09_Participant_Experience.md), [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)). This is a specific, low-cost way to get CEO/CTO-level visibility in both cities without a cash ask — lead with it on the call.
+**Confirmed in-kind commitment (final — no further ask):** Tita (CEO) and/or Dr Irwan (CTO) judge, joining virtually, on demo day, and separately host a live virtual workshop for participants on Day 1, ~4:00–4:45pm (see [09_Participant_Experience](09_Participant_Experience.md), [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)). This is the full extent of TI MedTech's commitment.
 
 ## Leon's Role (deliberately limited)
 
@@ -63,7 +63,6 @@ Kashaf & Aleeya own sponsor outreach, mentor/judge recruitment, and venue coordi
 - Planning and strategy input, drawing on having run hundreds of hackathons.
 - A quick sanity-check on the tier pricing above, if useful.
 - **Occasional sponsor introductions** — only if he has a direct contact worth introducing (e.g., possibly IBM). He is not expected to lead outreach or work a prospect list.
-- If he happens to have a genuine Singapore contact, that's worth asking about (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) Q4) — but Singapore sourcing does not depend on him.
 
 RMIT venue matters go through **Prof. Michael A Cowling directly**, not Leon — see [08_Venue_Logistics](08_Venue_Logistics.md).
 

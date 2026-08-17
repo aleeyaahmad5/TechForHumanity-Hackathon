@@ -1,11 +1,9 @@
 ID,Risk,Likelihood,Impact,Severity,Mitigation,Owner,Trigger
-1,TI MedTech scope stays undefined,High,High,Critical,Call Dr Irwan/Tita Week 1 with 5 clarifying questions and document decision,Kashaf & Aleeya,No scope decision by 2026-08-16
-2,Low participant registration,High,High,Critical,Start marketing Week 3 lean on uni clubs offer scholarship seats,Aleeya,Fewer than 30 registrations by Week 10
-3,RMIT venue unavailable,Medium,High,High,Secure backup venue by Week 3 via Prof Michael Cowling explore alternate RMIT spaces hybrid fallback,Kashaf & Aleeya,RMIT declines by Week 3
-4,Volunteer no-show day-of,Medium,Medium,Medium,Recruit 25% buffer cross-train roles,Tech Lead,Fewer than 10 volunteers confirmed day before
-5,WiFi failure during event,Medium,High,High,Stress test Week 14 backup hotspot offline fallback,Tech Lead,WiFi test shows <50 Mbps for 50 users
-6,Catering quote lands above the ~$1200 estimate at 150-head ceiling,Medium,Low,Low,Get actual quote Week 6-7 before locking headcount assumptions even doubled cost is covered by ticket revenue,Aleeya,Quote comes in above $40/box average
-7,Mentor/judge cancellation,Medium,Medium,Medium,Recruit 25% mentor buffer mentor FAQ reconfirm 1 week out,Mentorship Coordinator,Mentor cancels <7 days before event
-8,Participant safety incident,Low,High,High,First aid kit trained first aider code of conduct mental health contact quiet space,Venue Lead & Aleeya,Any incident during event
-9,Singapore venue or partner delays,High,High,Critical,Start Singapore sourcing Week 1 TI MedTech identify venue by Week 4 virtual fallback,TI MedTech (Dr Irwan),No Singapore venue confirmed by Week 4
-10,Post-event sponsorship reporting delays,Low,Medium,Low,Build ROI template Week 1 collect metrics immediately assign report owner,Kashaf & Aleeya,Report not ready by Week 16
+1,Low participant registration,High,High,Critical,Start marketing Week 3 lean on uni clubs offer scholarship seats,Aleeya,Fewer than 30 registrations by Week 10
+2,RMIT venue unavailable,Medium,High,High,Secure backup venue by Week 3 via Prof Michael Cowling explore alternate RMIT spaces hybrid fallback,Kashaf & Aleeya,RMIT declines by Week 3
+3,Volunteer no-show day-of,Medium,Medium,Medium,Recruit 25% buffer cross-train roles,Tech Lead,Fewer than 10 volunteers confirmed day before
+4,WiFi failure during event,Medium,High,High,Stress test Week 14 backup hotspot offline fallback,Tech Lead,WiFi test shows <50 Mbps for 50 users
+5,Catering quote lands above the ~$1200 estimate at 150-head ceiling,Medium,Low,Low,Get actual quote Week 6-7 before locking headcount assumptions even doubled cost is covered by ticket revenue,Aleeya,Quote comes in above $40/box average
+6,Mentor/judge cancellation (including TI MedTech confirmed slot),Medium,Medium,Medium,Recruit 25% mentor buffer mentor FAQ reconfirm 1 week out,Mentorship Coordinator,Mentor cancels <7 days before event
+7,Participant safety incident,Low,High,High,First aid kit trained first aider code of conduct mental health contact quiet space,Venue Lead & Aleeya,Any incident during event
+8,Post-event sponsorship reporting delays,Low,Medium,Low,Build ROI template Week 1 collect metrics immediately assign report owner,Kashaf & Aleeya,Report not ready by Week 16

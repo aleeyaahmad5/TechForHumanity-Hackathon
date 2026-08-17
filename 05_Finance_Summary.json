@@ -50,9 +50,5 @@
     "bestCaseTicketsAtCeiling": 49,
     "verdict": "Low-risk by design; ticket sales alone cover costs across the full 50-150 total-head range without any sponsor cash"
   },
-  "singapore": {
-    "status": "placeholder — cost structure entirely unknown, no Melbourne-style free venue assumed",
-    "profitToOrganizers": 0
-  },
   "openItem": "Confirm actual Catering At Its Finest quote — box serving size and price mix could push catering toward the top of the ~$1,200 estimate at the 150-head ceiling; still covered by ticket revenue either way"
 }

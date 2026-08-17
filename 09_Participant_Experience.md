@@ -27,11 +27,11 @@ A free, casual "get to know each other" session at RMIT the evening before the e
 - **Mentor network:** sourced directly by Kashaf & Aleeya — TI MedTech, university faculty, and other industry contacts. Leon connects us if he has a direct contact, but isn't the primary source.
 - **Estimated:** 3–5 mentors for Melbourne, rotated across the three office-hours slots so no team goes a full day without input.
 
-## TI MedTech Workshop (contingent — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md))
+## TI MedTech Workshop (confirmed — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md))
 
-If TI MedTech agrees to this ask: **Tita (CEO) and Dr Irwan (CTO) judge in person in Singapore**, and separately **host a live virtual workshop streamed to Melbourne** on Day 1, ~4:00–4:45pm (see [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)). Content should be a topic genuinely relevant to teams' projects at that point in the day (e.g., how a MedTech startup validates a health-adjacent idea, or a real product/regulatory constraint teams should design around) — not a generic company pitch. Confirm the topic with them directly rather than assuming; log it as a WBS task once scope is confirmed (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 8.7).
+TI MedTech's confirmed contribution: **Tita (CEO) and/or Dr Irwan (CTO) judge, joining virtually**, and separately **host a live virtual workshop for participants** on Day 1, ~4:00–4:45pm (see [14_OnDay_Playbook_Melbourne](14_OnDay_Playbook_Melbourne.md)). This is the full extent of their commitment — no further ask. Content should be a topic genuinely relevant to teams' projects at that point in the day (e.g., how a MedTech startup validates a health-adjacent idea, or a real product/regulatory constraint teams should design around) — not a generic company pitch. Confirm the topic with them directly rather than assuming; log it as a WBS task (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 8.7).
 
-Scheduling logic: the workshop sits on **Day 1**, not Day 2, so it doesn't compete with Tita/Dr Irwan's own judging duties during Singapore's demo day. Singapore is 3 hours behind Melbourne (SGT vs. AEDT) — confirm their local time before locking the slot.
+Scheduling logic: the workshop sits on **Day 1**, not Day 2, so it doesn't compete with judging duties on demo day.
 
 ## Judging Criteria & Rubric
 
@@ -52,18 +52,17 @@ Full rubric with scoring sheet: [TEMPLATES/Judging_Rubric.md](TEMPLATES/Judging_
 
 ## Prize Structure
 
-**Prizes are TBD overall** — the one confirmed anchor is that **1st place includes a mentorship package from TI MedTech, contingent on their agreement** (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)), plus a second component still to be decided. **No cash is budgeted for prizes by default** — the budget is deliberately kept to catering only (see [05_Budget_Revenue](05_Budget_Revenue.md)). Prizes are in-kind unless a sponsor specifically volunteers cash for them.
+**Prizes are TBD overall.** TI MedTech's confirmed contribution is limited to judging and hosting the Day 1 workshop (see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md)) — no prize package or further commitment is included. **No cash is budgeted for prizes by default** — the budget is deliberately kept to catering only (see [05_Budget_Revenue](05_Budget_Revenue.md)). Prizes are in-kind unless a sponsor specifically volunteers cash for them.
 
 | Category | Prize |
 |---|---|
-| 1st Place | **Mentorship package from TI MedTech (if agreed)** + [TBD — second component not yet decided] |
+| 1st Place | TBD |
 | 2nd Place | TBD |
 | 3rd Place | TBD |
 | People's Choice | TBD |
 | Best Social Impact | TBD |
 | Best Presentation | TBD |
 | All teams | LinkedIn-shareable "Tech for Humanity" participation certificate |
-| Winning teams | Introduction to TI MedTech for potential venture/internship support |
 
 Default assumption for the TBD slots: in-kind (cloud credits, swag) rather than cash, consistent with the low-budget model — but not locked in. Decide the remaining prize components once sponsor in-kind offers are known (see [03_Project_Plan_WBS](03_Project_Plan_WBS.md) task 8.5, Weeks 8–10). If ticket sales meaningfully outperform target (see the profit scenarios in [05_Budget_Revenue](05_Budget_Revenue.md)) or a sponsor volunteers cash specifically earmarked for prizes, small cash prizes become an option — but don't plan around that happening.
 

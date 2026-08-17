@@ -1,6 +1,6 @@
 # 07 — Volunteer & Staffing Plan
 
-Melbourne-focused; Singapore mirrors this structure at a smaller scale once the local partner is confirmed ([01](01_TI_MedTech_Partnership_Clarification.md) Q4).
+Melbourne only.
 
 ## Key Roles
 
@@ -15,7 +15,7 @@ Melbourne-focused; Singapore mirrors this structure at a smaller scale once the 
 | Social Media / Comms | Live updates, photo/video coverage | 1–2 |
 | General floaters (buffer) | Cover no-shows, overflow tasks | 3–4 |
 
-**Total estimate: 15–20 volunteers for Melbourne**, recruited with a ~25% buffer against no-shows (see [11_Risk_Register](11_Risk_Register.md)). Singapore headcount TBD, likely scaled to venue size once confirmed.
+**Total estimate: 15–20 volunteers for Melbourne**, recruited with a ~25% buffer against no-shows (see [11_Risk_Register](11_Risk_Register.md)).
 
 ## Recruitment Channels
 

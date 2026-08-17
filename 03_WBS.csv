@@ -1,56 +1,53 @@
 ID,Task,Track,Owner,StartWeek,EndWeek,DependsOn,Milestone
-1.1,Draft 5 clarifying questions for TI MedTech,Both,"K,A",1,1,,
-1.2,Call Dr Irwan and Tita,Both,"K,A,TI",1,1,1.1,
-1.3,Document scope decision (Scenario A/B),Both,"K,A",1,1,1.2,M1 Scope locked
-1.4,Check in with Leon for planning advice (not required for downstream tasks),Both,"K,A,L",1,1,,
+1.1,Draft clarifying questions for TI MedTech,MEL,"K,A",1,1,,
+1.2,Call Dr Irwan and Tita,MEL,"K,A,TI",1,1,1.1,
+1.3,Document confirmed scope (judge + Day 1 workshop no further commitment),MEL,"K,A",1,1,1.2,M1 Scope locked
+1.4,Check in with Leon for planning advice (not required for downstream tasks),MEL,"K,A,L",1,1,,
 2.1,Request RMIT Activator room availability direct to Prof Michael Cowling,MEL,"K,A,PM",1,2,,
 2.2,Confirm room capacity cost cancellation policy,MEL,"K,A,PM",2,2,2.1,
 2.3,Sign RMIT facility use agreement,MEL,"A,PM",2,3,"2.2,1.3",M2 MEL venue confirmed
-2.4,Identify Singapore venue options (TI MedTech contacts; Leon only if direct lead),SG,"TI,SGP,K,A",1,3,1.3,
-2.5,Confirm Singapore venue and local partner,SG,"SGP,K,A",3,4,2.4,M3 SG venue confirmed
-2.6,Identify backup Melbourne venue,MEL,A,2,3,,
-3.1,Build sponsor tier deck and prospecting list,Both,"K,A",2,2,1.3,
-3.2,Enterprise sponsor outreach (IBM and others; Leon connects if direct contact),Both,"K,A",3,5,3.1,
+2.4,Identify backup Melbourne venue,MEL,A,2,3,,
+3.1,Build sponsor tier deck and prospecting list,MEL,"K,A",2,2,1.3,
+3.2,Enterprise sponsor outreach (IBM and others; Leon connects if direct contact),MEL,"K,A",3,5,3.1,
 3.3,Local and university sponsor outreach,MEL,"K,A",3,5,3.1,
-3.4,TI MedTech in-kind agreement signed (logo judges workshop - no cash),Both,"K,A,TI",2,3,1.3,M4 TI MedTech in-kind commitment confirmed
-3.5,Sponsor sign-off deadline,Both,"K,A",6,6,"3.2,3.3",
-3.6,Sponsor activation,Both,A,7,10,3.5,
-4.1,Landing page and registration form live,Both,A,2,3,"1.3,2.3",
-4.2,Explainer video and social assets produced,Both,A,3,3,4.1,
-4.3,Marketing launch,Both,"A,K",3,3,"4.1,4.2",M5 Registration open
-4.4,University club and mailing list outreach,Both,"K,A",3,6,4.3,
-4.5,Mid-campaign push and testimonials,Both,A,6,6,4.4,
-4.6,Urgency push - 3 weeks left,Both,A,13,13,4.5,
-4.7,Final call and registration closes,Both,A,14,14,4.6,M6 Registration closed
-5.1,Define volunteer roles and shift plan,MEL/SG,"K,A",5,5,,
-5.2,Volunteer recruitment launch,Both,"K,A",6,6,5.1,
-5.3,Volunteer confirmations finalized,Both,"K,A",8,8,5.2,
-5.4,Volunteer training sessions,Both,"K,A",9,10,5.3,M7 Volunteers trained
+3.4,TI MedTech in-kind agreement signed (logo judges workshop - no cash),MEL,"K,A,TI",2,3,1.3,M4 TI MedTech in-kind commitment confirmed
+3.5,Sponsor sign-off deadline,MEL,"K,A",6,6,"3.2,3.3",
+3.6,Sponsor activation,MEL,A,7,10,3.5,
+4.1,Landing page and registration form live,MEL,A,2,3,"1.3,2.3",
+4.2,Explainer video and social assets produced,MEL,A,3,3,4.1,
+4.3,Marketing launch,MEL,"A,K",3,3,"4.1,4.2",M5 Registration open
+4.4,University club and mailing list outreach,MEL,"K,A",3,6,4.3,
+4.5,Mid-campaign push and testimonials,MEL,A,6,6,4.4,
+4.6,Urgency push - 3 weeks left,MEL,A,13,13,4.5,
+4.7,Final call and registration closes,MEL,A,14,14,4.6,M6 Registration closed
+5.1,Define volunteer roles and shift plan,MEL,"K,A",5,5,,
+5.2,Volunteer recruitment launch,MEL,"K,A",6,6,5.1,
+5.3,Volunteer confirmations finalized,MEL,"K,A",8,8,5.2,
+5.4,Volunteer training sessions,MEL,"K,A",9,10,5.3,M7 Volunteers trained
 6.1,Catering At Its Finest quote obtained (grazing boxes vs ~$1200 estimate at 150-head ceiling),MEL,A,6,7,4.1,
 6.2,Lunch Day 1 and Day 2 booked (up to 150 heads),MEL,A,8,8,6.1,
-6.3,AV and WiFi requirements confirmed with venue,MEL/SG,K,9,9,"2.3,2.5",
-6.4,WiFi stress test,MEL/SG,K,14,14,6.3,
-6.5,Accessibility accommodations finalized,MEL/SG,A,14,14,4.7,
-6.6,Insurance waivers consent forms finalized,MEL/SG,"K,A,PM",8,9,2.3,
-7.1,Mentor and judge target list (TI MedTech; Leon connects if direct contact),Both,"K,A,TI",4,4,1.3,
-7.2,Outreach and confirmations,Both,"K,A",5,7,7.1,M8 Mentors and judges confirmed
-7.3,Mentor briefing pack sent,Both,K,15,15,"7.2,9.4",
-7.4,Final mentor and judge reconfirmation,Both,K,15,15,7.3,
-8.1,Registration form fields finalized,Both,A,2,2,,
-8.2,Team formation mechanic decided,Both,"K,A",5,5,,
-8.3,Judging rubric finalized,Both,"K,A",6,6,7.1,
-8.4,Mentorship office-hours schedule built,Both,MC,10,10,7.2,
-8.5,Prize structure and procurement,Both,"K,A",8,10,3.4,
-8.6,Pre-event participant comms,Both,A,15,15,4.7,
-8.7,TI MedTech workshop confirmed and MEL-SG stream tested,Both,"K,TI",9,15,"1.3,6.3",Contingent - see 01_TI_MedTech_Partnership_Clarification.md
+6.3,AV and WiFi requirements confirmed with venue,MEL,K,9,9,2.3,
+6.4,WiFi stress test,MEL,K,14,14,6.3,
+6.5,Accessibility accommodations finalized,MEL,A,14,14,4.7,
+6.6,Insurance waivers consent forms finalized,MEL,"K,A,PM",8,9,2.3,
+7.1,Mentor and judge target list (TI MedTech; Leon connects if direct contact),MEL,"K,A,TI",4,4,1.3,
+7.2,Outreach and confirmations,MEL,"K,A",5,7,7.1,M8 Mentors and judges confirmed
+7.3,Mentor briefing pack sent,MEL,K,15,15,"7.2,9.2",
+7.4,Final mentor and judge reconfirmation,MEL,K,15,15,7.3,
+8.1,Registration form fields finalized,MEL,A,2,2,,
+8.2,Team formation mechanic decided,MEL,"K,A",5,5,,
+8.3,Judging rubric finalized,MEL,"K,A",6,6,7.1,
+8.4,Mentorship office-hours schedule built,MEL,MC,10,10,7.2,
+8.5,Prize structure and procurement,MEL,"K,A",8,10,3.4,
+8.6,Pre-event participant comms,MEL,A,15,15,4.7,
+8.7,TI MedTech workshop details finalized and stream tested,MEL,"K,TI",9,15,"1.3,6.3",Confirmed - see 01_TI_MedTech_Partnership_Clarification.md
 8.8,Pre-event mixer planned and hosted (Fri 20 Nov optional team-matching/networking RMIT),MEL,A,13,15,4.3,
-9.1,Run-of-show finalized both cities,Both,"K,A,SGP",15,15,"8.3,8.4",
-9.2,Venue walkthrough and AV test,Both,VT,15,15,6.3,
-9.3,Event execution Melbourne,MEL,"K,A,VT",15,15,9.2,M9 Event runs MEL
-9.4,Event execution Singapore,SG,"SGP,VT",15,15,9.2,M9 Event runs SG
-9.5,Demo day judging awards,Both,"K,A,SGP",15,15,"9.3,9.4",
-10.1,Participant survey sent,Both,A,15,15,9.5,
-10.2,Sponsor ROI deck and handoff,Both,K,16,16,10.1,
+9.1,Run-of-show finalized,MEL,"K,A",15,15,"8.3,8.4",
+9.2,Venue walkthrough and AV test,MEL,VT,15,15,6.3,
+9.3,Event execution Melbourne,MEL,"K,A,VT",15,15,9.2,M9 Event runs
+9.4,Demo day judging awards,MEL,"K,A",15,15,9.3,
+10.1,Participant survey sent,MEL,A,15,15,9.4,
+10.2,Sponsor ROI deck and handoff,MEL,K,16,16,10.1,
 10.3,Financial close-out and profit calculation,MEL,"K,A",16,16,,M10 Books closed
-10.4,Lessons-learned session,Both,"K,A,L",17,17,10.1,
-10.5,Archival and 1-page summary,Both,A,17,17,10.4,
+10.4,Lessons-learned session,MEL,"K,A,L",17,17,10.1,
+10.5,Archival and 1-page summary,MEL,A,17,17,10.4,

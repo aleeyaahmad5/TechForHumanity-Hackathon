@@ -23,7 +23,7 @@ No catering budget for this — self-serve water only, unless surplus ticket rev
 
 | Time | Task | Owner | Notes |
 |---|---|---|---|
-| 9:00–9:30 | Venue walkthrough, AV test | Tech Lead | Confirm WiFi, projector, sound; if the TI MedTech workshop is confirmed, test the video call/stream link end-to-end now, not at 4pm |
+| 9:00–9:30 | Venue walkthrough, AV test | Tech Lead | Confirm WiFi, projector, sound; test the TI MedTech video call link end-to-end now, not at 4pm |
 | 9:30–9:45 | Registration table setup, name tags ready | Participant Experience Lead | Alphabetical order for quick handoff |
 | 9:45–10:00 | Doors open, participant check-in | Participant Experience Lead | |
 
@@ -47,7 +47,7 @@ No catering budget for this — self-serve water only, unless surplus ticket rev
 | Time | Task | Owner | Notes |
 |---|---|---|---|
 | 2:00–4:00 | Hacking; mentor office hours slot 2 | Mentorship Coordinator | |
-| 4:00–4:45 | **Virtual workshop:** Tita (CEO) & Dr Irwan (CTO), TI MedTech — livestreamed from Singapore | Tech Lead (AV) | Contingent on TI MedTech agreement — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) and [09_Participant_Experience](09_Participant_Experience.md). Tested at the 9:00am AV check. |
+| 4:00–4:45 | **Virtual workshop:** Tita (CEO) and/or Dr Irwan (CTO), TI MedTech — joining remotely | Tech Lead (AV) | Confirmed — see [01_TI_MedTech_Partnership_Clarification](01_TI_MedTech_Partnership_Clarification.md) and [09_Participant_Experience](09_Participant_Experience.md). Tested at the 9:00am AV check. |
 | 4:45–5:45 | Hacking (final Day 1 push) | — | |
 | 5:45–6:00 | Day 1 wrap-up; safety check-in | Kashaf | "How are you feeling? Anyone need support?" |
 | 6:00pm | Venue closes | Venue Lead | No overnight access — short-day format, nothing to arrange |

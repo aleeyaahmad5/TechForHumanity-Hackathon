@@ -5,7 +5,7 @@ Event weekend: Sat 21 - Sun 22 Nov 2026 (Week 15)
 Week #             01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17
 ------------------ -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 1  TI MedTech scope M  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-2  Venue coord      #  #  M  M  .  .  .  .  .  .  .  .  .  .  .  .  .
+2  Venue coord      #  #  M  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 3  Sponsor outreach .  #  M  #  #  #  M  #  #  #  .  .  .  .  .  .  .
 4  Marketing/Recrt  .  #  M  #  #  #  #  #  #  #  .  .  #  M  #  .  .
 5  Volunteer        .  .  .  .  #  #  #  #  M  #  .  .  .  .  .  .  .
@@ -18,14 +18,13 @@ Week #             01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17
 Milestones:
   M1  Wk1   Scope locked (TI MedTech)
   M2  Wk3   Melbourne venue confirmed
-  M3  Wk4   Singapore venue confirmed
-  M4  Wk3   TI MedTech in-kind commitment confirmed (logo, judges, workshop - not cash)
+  M4  Wk3   TI MedTech in-kind commitment confirmed (logo, judge, workshop - not cash)
   M5  Wk3   Registration open
   M6  Wk14  Registration closed
   --  Fri 20 Nov (Wk15)  Pre-event mixer (optional, free)
   M7  Wk9-10 Volunteers trained
   M8  Wk7   Mentors/judges confirmed
-  M9  Wk15  Event runs (Melbourne + Singapore)
+  M9  Wk15  Event runs (Melbourne)
   M10 Wk16  Books closed
 
 Buffer: Weeks 11-12 intentionally hold no new track starts — use for catch-up on any slipped Wk5-10 items.

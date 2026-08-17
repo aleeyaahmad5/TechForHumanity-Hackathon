@@ -6,7 +6,7 @@
 
 > Hi [First Name],
 >
-> We're running Tech for Humanity — a weekend hackathon for students who want to build real solutions in health, education, housing, and accessibility. Simultaneous events in Melbourne (RMIT Activator) and Singapore, 21–22 November 2026.
+> We're running Tech for Humanity — a weekend hackathon for students who want to build real solutions in health, education, housing, and accessibility. Melbourne (RMIT Activator), 21–22 November 2026.
 >
 > You'll get: industry mentors, real judges, a team, and two days to build something that actually matters. No experience required — designers, writers, and first-time coders are as welcome as engineers.
 >

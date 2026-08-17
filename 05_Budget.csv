@@ -3,8 +3,8 @@ Revenue,Ticket,MEL,Early bird tickets,20,Price per ticket first 3 weeks
 Revenue,Ticket,MEL,Standard tickets,35,Hard cap - no ticket over $35
 Revenue,Ticket,MEL,Group ticket,25,Price per person for teams of 4+
 Revenue,Ticket,MEL,Scholarship seats,0,~10% free seats
-Revenue,Sponsorship,Both,TI MedTech (logo + in-kind only),0,Not needed for budget to close
-Revenue,Sponsorship,Both,Any Gold/Silver cash or in-kind,0,Pure upside - not required
+Revenue,Sponsorship,MEL,TI MedTech (logo + judge + workshop only),0,Confirmed - not needed for budget to close
+Revenue,Sponsorship,MEL,Any Gold/Silver cash or in-kind,0,Pure upside - not required
 Expense,Venue,MEL,RMIT Activator,0,Free - arranged directly with Prof Michael Cowling (RMIT)
 Expense,AV/Tech,MEL,AV and tech,0,Covered by RMIT
 Expense,Volunteers,MEL,Appreciation,0,No budget line
@@ -23,5 +23,3 @@ Scenario,100 total heads,MEL,Profit to Kashaf and Aleeya,1550,
 Scenario,150 total heads (ceiling),MEL,Paid tickets (135) revenue @ $27 avg,3645,
 Scenario,150 total heads (ceiling),MEL,Catering + contingency,1320,
 Scenario,150 total heads (ceiling),MEL,Profit to Kashaf and Aleeya,2325,
-Expense,Venue,SG,Venue (TBD),0,No Melbourne-style free venue assumed - unknown
-Expense,Total,SG,Singapore costs,0,Placeholder - do not budget until venue/partner confirmed

@@ -9,7 +9,7 @@ Talented students in under-served communities often don't know hackathons exist,
 1. **Primary:** 2nd–3rd year undergrads in tech/engineering (CS, biomedical, data science)
 2. **Secondary:** grad students, recent alumni, career-switchers
 3. **Inclusive priority:** students from low-income backgrounds, first-gen students, women in tech, Indigenous Australians
-4. **Geographic:** RMIT, Melbourne Uni, Monash, Swinburne, broader Victoria + interstate interest (Sydney, Brisbane); Singapore equivalent once partner confirmed
+4. **Geographic:** RMIT, Melbourne Uni, Monash, Swinburne, broader Victoria + interstate interest (Sydney, Brisbane)
 
 ## Channels & Timeline
 

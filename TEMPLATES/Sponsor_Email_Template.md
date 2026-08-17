@@ -4,11 +4,11 @@ Use for all sponsor outreach — Kashaf & Aleeya lead every tier; Leon only make
 
 ---
 
-**Subject:** Partner with us — Tech for Humanity Hackathon, 21–22 Nov 2026 (Melbourne + Singapore)
+**Subject:** Partner with us — Tech for Humanity Hackathon, 21–22 Nov 2026 (Melbourne)
 
 Hi [Name],
 
-I'm [Kashaf/Aleeya], a [role] at TI MedTech, co-organizing Tech for Humanity — a student hackathon focused on health, education, housing, and accessibility solutions, running simultaneously in Melbourne (RMIT Activator) and Singapore on 21–22 November 2026.
+I'm [Kashaf/Aleeya], a [role] at TI MedTech, co-organizing Tech for Humanity — a student hackathon focused on health, education, housing, and accessibility solutions, running at RMIT Activator, Melbourne, on 21–22 November 2026.
 
 We expect 50–130 participants in Melbourne alone (up to 150 total including mentors, judges, and volunteers), backed by RMIT Activator and mentored by industry professionals from TI MedTech and our own network. We're looking for partners at three levels:
 

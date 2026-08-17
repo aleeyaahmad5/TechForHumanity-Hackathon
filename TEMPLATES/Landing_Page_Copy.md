@@ -5,7 +5,7 @@
 **Headline:** Tech for Humanity: Innovate. Connect. Impact.
 **Subheading:** Solve real-world problems in health, education, housing & accessibility. 2 days. Industry mentors. No experience needed.
 **CTA button:** Get Your Ticket
-**Sub-CTA:** 21–22 Nov 2026 · Melbourne (RMIT Activator) + Singapore
+**Sub-CTA:** 21–22 Nov 2026 · Melbourne (RMIT Activator)
 
 ## What
 
@@ -17,7 +17,7 @@ Saturday 21 – Sunday 22 November 2026. Full run-of-show shared closer to the d
 
 ## Where
 
-Melbourne: RMIT Activator Hub. Singapore: venue to be announced. Simultaneous events, same weekend.
+RMIT Activator Hub, Melbourne.
 
 ## Why
 
@@ -29,7 +29,7 @@ All skill levels welcome — coders, designers, writers, and first-time hackers 
 
 ## Prizes
 
-1st, 2nd, 3rd place, People's Choice, Best Social Impact, Best Presentation — plus every team leaves with a shareable certificate and, for winning teams, an introduction to TI MedTech.
+1st, 2nd, 3rd place, People's Choice, Best Social Impact, Best Presentation — plus every team leaves with a shareable certificate.
 
 ## FAQ
 
