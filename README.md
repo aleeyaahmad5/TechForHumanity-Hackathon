@@ -38,7 +38,7 @@ This repo is the full operational plan for the event, built from the RMIT capsto
 | [13_Participant_Storyboard.md](13_Participant_Storyboard.md) | 6-frame ASCII storyboard of the participant experience |
 | [14_OnDay_Playbook_Melbourne.md](14_OnDay_Playbook_Melbourne.md) / [CSV](14_Critical_Timeline_Melbourne.csv) | Minute-by-minute run-of-show, contacts, escalation path |
 | [TEMPLATES/](TEMPLATES/) | Sponsor email, volunteer sign-up fields, judging rubric, code of conduct, social posts, landing page copy, survey template |
-| [APPENDIX/](APPENDIX/) | Framework sourcing, top 10 unknowns, full assumptions log |
+| [APPENDIX/](APPENDIX/) | Framework sourcing, top 8 unknowns, full assumptions log, alternative budget scenarios |
 
 ## Key Unknowns
 
